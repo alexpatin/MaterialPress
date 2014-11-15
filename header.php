@@ -44,15 +44,21 @@
     <div class="container">
       <div class="nav-wrapper">
         <a href="index.html" class="brand-logo" id="logo-container">
-          <object id="front-page-logo" type="image/svg+xml" data="<?php echo get_template_directory_uri();?>/res/materialize.svg">Your browser does not support SVG</object>
+          <h2 style="color:#fff;font-size:24px;" class="site-title">MaterialPress</h2>
         </a>
-        <ul class="right side-nav" id="nav-mobile">
-          <li><a href="about.html">About</a></li>
-          <li><a href="getting_started.html">Getting Started</a></li>
-          <li><a href="sass.html">Sass</a></li>
-          <li><a href="components.html">Components</a></li>
-          <li><a href="javascript.html">JavaScript</a></li>
-        </ul>
+        <?php $menu_args = array(
+  'theme_location'  => 'primary',
+  'container'       => 'ul',
+  'container_class' => 'right side-nav',
+  'container_id'    => 'nav-mobile',
+  'menu_class'      => 'menu',
+  'menu_id'         => '',
+  'echo'            => true,
+  'depth'           => 0,
+);
+
+wp_nav_menu( $menu_args );?>
+
         <a class="button-collapse" href="#" data-activates='nav-mobile'><i class="mdi-navigation-menu"></i></a>
       </div>
     </div>
