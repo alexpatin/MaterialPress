@@ -1,6 +1,14 @@
 MaterialPress v 0.1
 ===================
 
+<<<<<<< HEAD
+=======
+Welcome to the beginning of MaterialPress! 
+------------------------------------------
+
+---
+
+>>>>>>> 2392f414bc3e3a3ca29d3dfd7102f32ce6c01edd
 ![Materialize Screenshot](screenshot.png)
 
 Welcome to the beginning of MaterialPress! 
@@ -24,8 +32,12 @@ Feature Roadmap
 
 ---
 
+<<<<<<< HEAD
 More features will be added to the roadmap as time goes on. I'm shooting to have the first public version of the theme ready for testing and submission to the theme repository soon.
 
 Feel free to contact me via [email](mailto:patin.alex@gmail.com) or [my website](http://alexpatin.com) if you have any questions or if you are interested in helping make MaterialPress! You are more than welcome to fork and contibute if you have any ideas.
+=======
+Feel free to contact me via [email](mailto:patin.alex@gmail.com) or [my website](http://alexpatin.com) if you have any questions. You are more than welcome to fork and contibute if you have any ideas.
+>>>>>>> 2392f414bc3e3a3ca29d3dfd7102f32ce6c01edd
 
 License: GPL v2
