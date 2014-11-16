@@ -1,0 +1,72 @@
+// Google Color Palette defined: http://www.google.com/design/spec/style/color.html
+
+$color-depth: 5;
+
+$colors: (
+  "red": #e51c23,
+  "pink": #E91E63,
+  "purple": #9C27B0,
+  "deep-purple": #673AB7,
+  "indigo": #3F51B5,
+  "blue": #1690f3,
+  "light-blue": #03A9F4,
+  "cyan": #00BCD4,
+  "teal": hsl(174, 100%, 43%),
+  "green": #4CAF50,
+  "light-green": #84bf40,
+  "lime": #c7d926,
+  "yellow": #ffe70f,
+  "amber": #fabb00,
+  "orange": #FF9800,
+  "deep-orange": #ff470f,
+  "brown": #795548,
+  "grey": #808080,
+  "blue-grey": #607D8B,
+);
+
+@each $name, $value in $colors {
+  .#{$name} {
+    background-color: $value;
+
+    $i: 1;
+    @while $i <= $color-depth {
+      $perc: unquote(9% * $i);
+      &.lighten-#{$i} {
+        background-color: lighten($value, $perc);
+      }
+      $i: $i + 1;
+    }
+    $i: 1;
+    @while $i <= $color-depth {
+      $perc: unquote(5% * $i);
+      &.darken-#{$i} {
+        background-color: darken($value, $perc);
+      }
+      $i: $i + 1;
+    }
+  }
+  .#{$name}-text {
+    color: $value;
+
+    $i: 1;
+    @while $i <= $color-depth {
+      $perc: unquote(9% * $i);
+      &.lighten-#{$i} {
+        color: lighten($value, $perc);
+      }
+      $i: $i + 1;
+    }
+    $i: 1;
+    @while $i <= $color-depth {
+      $perc: unquote(5% * $i);
+      &.darken-#{$i} {
+        color: darken($value, $perc);
+      }
+      $i: $i + 1;
+    }
+  }
+}
+
+$white: #fff;
+.white { background-color: $white; }
+.white-text { color: $white; }
