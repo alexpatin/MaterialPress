@@ -1,5 +1,4 @@
-MaterialPress v 0.1
-===================
+# MaterialPress v 0.1
 
 ![Materialize Screenshot](screenshot.png)
 
@@ -8,19 +7,23 @@ Welcome to the beginning of MaterialPress!
 
 MaterialPress is a WordPress theme, influenced heavily by Google's Material Design philosophy. Several front end styles have been adapted from the [Materialize](https://github.com/Dogfalo/materialize) front-end framework. 
 
-MaterialPress is in extreme infancy, (*I literally had the idea just a few days ago*), so I am looking forward to adding more to make this a quality open source WordPress theme for those of us who love and appreciate Google's new aesthetic. 
+MaterialPress is in extreme infancy, (*I had the idea just a few days ago*), so I am looking forward to adding more to make this a quality open source WordPress theme for those of us who love and appreciate Google's new aesthetic. 
 
 ---
 
-Feature Roadmap
----------------
+## Roadmap
 
-+ General markup clean up and organization (I did this so quickly, please forgive me!)
-+ Add support for widgets, sidebar and footer widget areas 
-+ Comment support
-+ Theme customizer options, including custom headers and background colors
-+ Additional JS from Materialize front-end framework
-+ Styles for post formats
+
+[X] Additional JS from Materialize front-end framework
+[] General markup clean up and organization (I did this so quickly, please forgive me!)
+[] Setup roots.io framework as base
+	- [] Support for widgets, sidebar and footer widget areas 
+	- [] Comment support
+	- [] Post format support
+	- [] Theme customizer options
+[] Setup task runner for development
+[] Add material-ui icons
+
 
 ---
 
