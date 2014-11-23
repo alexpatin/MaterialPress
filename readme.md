@@ -14,16 +14,19 @@ MaterialPress is in extreme infancy, (*I had the idea just a few days ago*), so 
 ## Roadmap
 
 
-[X] Additional JS from Materialize front-end framework
-[] General markup clean up and organization (I did this so quickly, please forgive me!)
-[] Setup roots.io framework as base
-	- [] Support for widgets, sidebar and footer widget areas 
-	- [] Comment support
-	- [] Post format support
-	- [] Theme customizer options
-[] Setup task runner for development
-[] Add material-ui icons
-
+- [X] Additional JS from Materialize front-end framework
+- [ ] General markup clean up and organization (I did this so quickly, please forgive me!)
+- [ ] Setup roots.io framework as base
+	- [ ] Support for widgets, sidebar and footer widget areas 
+	- [ ] Comment support
+	- [ ] Post format support
+	- [ ] Theme customizer options
+- [ ] Setup task runner for development
+- [ ] Add Material UI icons
+- [ ] JS clean up
+	- [ ] Fix Toast
+	- [ ] Fixed tab bar
+	- [ ] Parallax support
 
 ---
 
