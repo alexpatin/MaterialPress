@@ -394,6 +394,2160 @@ th {
   padding: 0;
 }
 
+.materialize-red.lighten-5 {
+  background-color: #fdeaeb !important;
+}
+
+.materialize-red-text.lighten-5 {
+  color: #fdeaeb !important;
+}
+
+.materialize-red.lighten-4 {
+  background-color: #f8c1c3 !important;
+}
+
+.materialize-red-text.lighten-4 {
+  color: #f8c1c3 !important;
+}
+
+.materialize-red.lighten-3 {
+  background-color: #f3989b !important;
+}
+
+.materialize-red-text.lighten-3 {
+  color: #f3989b !important;
+}
+
+.materialize-red.lighten-2 {
+  background-color: #ee6e73 !important;
+}
+
+.materialize-red-text.lighten-2 {
+  color: #ee6e73 !important;
+}
+
+.materialize-red.lighten-1 {
+  background-color: #ea454b !important;
+}
+
+.materialize-red-text.lighten-1 {
+  color: #ea454b !important;
+}
+
+.materialize-red {
+  background-color: #e51c23 !important;
+}
+
+.materialize-red-text {
+  color: #e51c23 !important;
+}
+
+.materialize-red.darken-1 {
+  background-color: #d0181e !important;
+}
+
+.materialize-red-text.darken-1 {
+  color: #d0181e !important;
+}
+
+.materialize-red.darken-2 {
+  background-color: #b9151b !important;
+}
+
+.materialize-red-text.darken-2 {
+  color: #b9151b !important;
+}
+
+.materialize-red.darken-3 {
+  background-color: #a21318 !important;
+}
+
+.materialize-red-text.darken-3 {
+  color: #a21318 !important;
+}
+
+.materialize-red.darken-4 {
+  background-color: #8b1014 !important;
+}
+
+.materialize-red-text.darken-4 {
+  color: #8b1014 !important;
+}
+
+.red.lighten-5 {
+  background-color: #FFEBEE !important;
+}
+
+.red-text.lighten-5 {
+  color: #FFEBEE !important;
+}
+
+.red.lighten-4 {
+  background-color: #FFCDD2 !important;
+}
+
+.red-text.lighten-4 {
+  color: #FFCDD2 !important;
+}
+
+.red.lighten-3 {
+  background-color: #EF9A9A !important;
+}
+
+.red-text.lighten-3 {
+  color: #EF9A9A !important;
+}
+
+.red.lighten-2 {
+  background-color: #E57373 !important;
+}
+
+.red-text.lighten-2 {
+  color: #E57373 !important;
+}
+
+.red.lighten-1 {
+  background-color: #EF5350 !important;
+}
+
+.red-text.lighten-1 {
+  color: #EF5350 !important;
+}
+
+.red {
+  background-color: #F44336 !important;
+}
+
+.red-text {
+  color: #F44336 !important;
+}
+
+.red.darken-1 {
+  background-color: #E53935 !important;
+}
+
+.red-text.darken-1 {
+  color: #E53935 !important;
+}
+
+.red.darken-2 {
+  background-color: #D32F2F !important;
+}
+
+.red-text.darken-2 {
+  color: #D32F2F !important;
+}
+
+.red.darken-3 {
+  background-color: #C62828 !important;
+}
+
+.red-text.darken-3 {
+  color: #C62828 !important;
+}
+
+.red.darken-4 {
+  background-color: #B71C1C !important;
+}
+
+.red-text.darken-4 {
+  color: #B71C1C !important;
+}
+
+.red.accent-1 {
+  background-color: #FF8A80 !important;
+}
+
+.red-text.accent-1 {
+  color: #FF8A80 !important;
+}
+
+.red.accent-2 {
+  background-color: #FF5252 !important;
+}
+
+.red-text.accent-2 {
+  color: #FF5252 !important;
+}
+
+.red.accent-3 {
+  background-color: #FF1744 !important;
+}
+
+.red-text.accent-3 {
+  color: #FF1744 !important;
+}
+
+.red.accent-4 {
+  background-color: #D50000 !important;
+}
+
+.red-text.accent-4 {
+  color: #D50000 !important;
+}
+
+.pink.lighten-5 {
+  background-color: #fce4ec !important;
+}
+
+.pink-text.lighten-5 {
+  color: #fce4ec !important;
+}
+
+.pink.lighten-4 {
+  background-color: #f8bbd0 !important;
+}
+
+.pink-text.lighten-4 {
+  color: #f8bbd0 !important;
+}
+
+.pink.lighten-3 {
+  background-color: #f48fb1 !important;
+}
+
+.pink-text.lighten-3 {
+  color: #f48fb1 !important;
+}
+
+.pink.lighten-2 {
+  background-color: #f06292 !important;
+}
+
+.pink-text.lighten-2 {
+  color: #f06292 !important;
+}
+
+.pink.lighten-1 {
+  background-color: #ec407a !important;
+}
+
+.pink-text.lighten-1 {
+  color: #ec407a !important;
+}
+
+.pink {
+  background-color: #e91e63 !important;
+}
+
+.pink-text {
+  color: #e91e63 !important;
+}
+
+.pink.darken-1 {
+  background-color: #d81b60 !important;
+}
+
+.pink-text.darken-1 {
+  color: #d81b60 !important;
+}
+
+.pink.darken-2 {
+  background-color: #c2185b !important;
+}
+
+.pink-text.darken-2 {
+  color: #c2185b !important;
+}
+
+.pink.darken-3 {
+  background-color: #ad1457 !important;
+}
+
+.pink-text.darken-3 {
+  color: #ad1457 !important;
+}
+
+.pink.darken-4 {
+  background-color: #880e4f !important;
+}
+
+.pink-text.darken-4 {
+  color: #880e4f !important;
+}
+
+.pink.accent-1 {
+  background-color: #ff80ab !important;
+}
+
+.pink-text.accent-1 {
+  color: #ff80ab !important;
+}
+
+.pink.accent-2 {
+  background-color: #ff4081 !important;
+}
+
+.pink-text.accent-2 {
+  color: #ff4081 !important;
+}
+
+.pink.accent-3 {
+  background-color: #f50057 !important;
+}
+
+.pink-text.accent-3 {
+  color: #f50057 !important;
+}
+
+.pink.accent-4 {
+  background-color: #c51162 !important;
+}
+
+.pink-text.accent-4 {
+  color: #c51162 !important;
+}
+
+.purple.lighten-5 {
+  background-color: #f3e5f5 !important;
+}
+
+.purple-text.lighten-5 {
+  color: #f3e5f5 !important;
+}
+
+.purple.lighten-4 {
+  background-color: #e1bee7 !important;
+}
+
+.purple-text.lighten-4 {
+  color: #e1bee7 !important;
+}
+
+.purple.lighten-3 {
+  background-color: #ce93d8 !important;
+}
+
+.purple-text.lighten-3 {
+  color: #ce93d8 !important;
+}
+
+.purple.lighten-2 {
+  background-color: #ba68c8 !important;
+}
+
+.purple-text.lighten-2 {
+  color: #ba68c8 !important;
+}
+
+.purple.lighten-1 {
+  background-color: #ab47bc !important;
+}
+
+.purple-text.lighten-1 {
+  color: #ab47bc !important;
+}
+
+.purple {
+  background-color: #9c27b0 !important;
+}
+
+.purple-text {
+  color: #9c27b0 !important;
+}
+
+.purple.darken-1 {
+  background-color: #8e24aa !important;
+}
+
+.purple-text.darken-1 {
+  color: #8e24aa !important;
+}
+
+.purple.darken-2 {
+  background-color: #7b1fa2 !important;
+}
+
+.purple-text.darken-2 {
+  color: #7b1fa2 !important;
+}
+
+.purple.darken-3 {
+  background-color: #6a1b9a !important;
+}
+
+.purple-text.darken-3 {
+  color: #6a1b9a !important;
+}
+
+.purple.darken-4 {
+  background-color: #4a148c !important;
+}
+
+.purple-text.darken-4 {
+  color: #4a148c !important;
+}
+
+.purple.accent-1 {
+  background-color: #ea80fc !important;
+}
+
+.purple-text.accent-1 {
+  color: #ea80fc !important;
+}
+
+.purple.accent-2 {
+  background-color: #e040fb !important;
+}
+
+.purple-text.accent-2 {
+  color: #e040fb !important;
+}
+
+.purple.accent-3 {
+  background-color: #d500f9 !important;
+}
+
+.purple-text.accent-3 {
+  color: #d500f9 !important;
+}
+
+.purple.accent-4 {
+  background-color: #aa00ff !important;
+}
+
+.purple-text.accent-4 {
+  color: #aa00ff !important;
+}
+
+.deep-purple.lighten-5 {
+  background-color: #ede7f6 !important;
+}
+
+.deep-purple-text.lighten-5 {
+  color: #ede7f6 !important;
+}
+
+.deep-purple.lighten-4 {
+  background-color: #d1c4e9 !important;
+}
+
+.deep-purple-text.lighten-4 {
+  color: #d1c4e9 !important;
+}
+
+.deep-purple.lighten-3 {
+  background-color: #b39ddb !important;
+}
+
+.deep-purple-text.lighten-3 {
+  color: #b39ddb !important;
+}
+
+.deep-purple.lighten-2 {
+  background-color: #9575cd !important;
+}
+
+.deep-purple-text.lighten-2 {
+  color: #9575cd !important;
+}
+
+.deep-purple.lighten-1 {
+  background-color: #7e57c2 !important;
+}
+
+.deep-purple-text.lighten-1 {
+  color: #7e57c2 !important;
+}
+
+.deep-purple {
+  background-color: #673ab7 !important;
+}
+
+.deep-purple-text {
+  color: #673ab7 !important;
+}
+
+.deep-purple.darken-1 {
+  background-color: #5e35b1 !important;
+}
+
+.deep-purple-text.darken-1 {
+  color: #5e35b1 !important;
+}
+
+.deep-purple.darken-2 {
+  background-color: #512da8 !important;
+}
+
+.deep-purple-text.darken-2 {
+  color: #512da8 !important;
+}
+
+.deep-purple.darken-3 {
+  background-color: #4527a0 !important;
+}
+
+.deep-purple-text.darken-3 {
+  color: #4527a0 !important;
+}
+
+.deep-purple.darken-4 {
+  background-color: #311b92 !important;
+}
+
+.deep-purple-text.darken-4 {
+  color: #311b92 !important;
+}
+
+.deep-purple.accent-1 {
+  background-color: #b388ff !important;
+}
+
+.deep-purple-text.accent-1 {
+  color: #b388ff !important;
+}
+
+.deep-purple.accent-2 {
+  background-color: #7c4dff !important;
+}
+
+.deep-purple-text.accent-2 {
+  color: #7c4dff !important;
+}
+
+.deep-purple.accent-3 {
+  background-color: #651fff !important;
+}
+
+.deep-purple-text.accent-3 {
+  color: #651fff !important;
+}
+
+.deep-purple.accent-4 {
+  background-color: #6200ea !important;
+}
+
+.deep-purple-text.accent-4 {
+  color: #6200ea !important;
+}
+
+.indigo.lighten-5 {
+  background-color: #e8eaf6 !important;
+}
+
+.indigo-text.lighten-5 {
+  color: #e8eaf6 !important;
+}
+
+.indigo.lighten-4 {
+  background-color: #c5cae9 !important;
+}
+
+.indigo-text.lighten-4 {
+  color: #c5cae9 !important;
+}
+
+.indigo.lighten-3 {
+  background-color: #9fa8da !important;
+}
+
+.indigo-text.lighten-3 {
+  color: #9fa8da !important;
+}
+
+.indigo.lighten-2 {
+  background-color: #7986cb !important;
+}
+
+.indigo-text.lighten-2 {
+  color: #7986cb !important;
+}
+
+.indigo.lighten-1 {
+  background-color: #5c6bc0 !important;
+}
+
+.indigo-text.lighten-1 {
+  color: #5c6bc0 !important;
+}
+
+.indigo {
+  background-color: #3f51b5 !important;
+}
+
+.indigo-text {
+  color: #3f51b5 !important;
+}
+
+.indigo.darken-1 {
+  background-color: #3949ab !important;
+}
+
+.indigo-text.darken-1 {
+  color: #3949ab !important;
+}
+
+.indigo.darken-2 {
+  background-color: #303f9f !important;
+}
+
+.indigo-text.darken-2 {
+  color: #303f9f !important;
+}
+
+.indigo.darken-3 {
+  background-color: #283593 !important;
+}
+
+.indigo-text.darken-3 {
+  color: #283593 !important;
+}
+
+.indigo.darken-4 {
+  background-color: #1a237e !important;
+}
+
+.indigo-text.darken-4 {
+  color: #1a237e !important;
+}
+
+.indigo.accent-1 {
+  background-color: #8c9eff !important;
+}
+
+.indigo-text.accent-1 {
+  color: #8c9eff !important;
+}
+
+.indigo.accent-2 {
+  background-color: #536dfe !important;
+}
+
+.indigo-text.accent-2 {
+  color: #536dfe !important;
+}
+
+.indigo.accent-3 {
+  background-color: #3d5afe !important;
+}
+
+.indigo-text.accent-3 {
+  color: #3d5afe !important;
+}
+
+.indigo.accent-4 {
+  background-color: #304ffe !important;
+}
+
+.indigo-text.accent-4 {
+  color: #304ffe !important;
+}
+
+.blue.lighten-5 {
+  background-color: #E3F2FD !important;
+}
+
+.blue-text.lighten-5 {
+  color: #E3F2FD !important;
+}
+
+.blue.lighten-4 {
+  background-color: #BBDEFB !important;
+}
+
+.blue-text.lighten-4, .collection .active {
+  color: #BBDEFB !important;
+}
+
+.blue.lighten-3 {
+  background-color: #90CAF9 !important;
+}
+
+.blue-text.lighten-3 {
+  color: #90CAF9 !important;
+}
+
+.blue.lighten-2 {
+  background-color: #64B5F6 !important;
+}
+
+.blue-text.lighten-2 {
+  color: #64B5F6 !important;
+}
+
+.blue.lighten-1, .collection .active {
+  background-color: #42A5F5 !important;
+}
+
+.blue-text.lighten-1 {
+  color: #42A5F5 !important;
+}
+
+.blue {
+  background-color: #2196F3 !important;
+}
+
+.blue-text {
+  color: #2196F3 !important;
+}
+
+.blue.darken-1 {
+  background-color: #1E88E5 !important;
+}
+
+.blue-text.darken-1 {
+  color: #1E88E5 !important;
+}
+
+.blue.darken-2 {
+  background-color: #1976D2 !important;
+}
+
+.blue-text.darken-2 {
+  color: #1976D2 !important;
+}
+
+.blue.darken-3 {
+  background-color: #1565C0 !important;
+}
+
+.blue-text.darken-3 {
+  color: #1565C0 !important;
+}
+
+.blue.darken-4 {
+  background-color: #0D47A1 !important;
+}
+
+.blue-text.darken-4 {
+  color: #0D47A1 !important;
+}
+
+.blue.accent-1 {
+  background-color: #82B1FF !important;
+}
+
+.blue-text.accent-1 {
+  color: #82B1FF !important;
+}
+
+.blue.accent-2 {
+  background-color: #448AFF !important;
+}
+
+.blue-text.accent-2 {
+  color: #448AFF !important;
+}
+
+.blue.accent-3 {
+  background-color: #2979FF !important;
+}
+
+.blue-text.accent-3 {
+  color: #2979FF !important;
+}
+
+.blue.accent-4 {
+  background-color: #2962FF !important;
+}
+
+.blue-text.accent-4 {
+  color: #2962FF !important;
+}
+
+.light-blue.lighten-5 {
+  background-color: #e1f5fe !important;
+}
+
+.light-blue-text.lighten-5 {
+  color: #e1f5fe !important;
+}
+
+.light-blue.lighten-4 {
+  background-color: #b3e5fc !important;
+}
+
+.light-blue-text.lighten-4 {
+  color: #b3e5fc !important;
+}
+
+.light-blue.lighten-3 {
+  background-color: #81d4fa !important;
+}
+
+.light-blue-text.lighten-3 {
+  color: #81d4fa !important;
+}
+
+.light-blue.lighten-2 {
+  background-color: #4fc3f7 !important;
+}
+
+.light-blue-text.lighten-2 {
+  color: #4fc3f7 !important;
+}
+
+.light-blue.lighten-1 {
+  background-color: #29b6f6 !important;
+}
+
+.light-blue-text.lighten-1 {
+  color: #29b6f6 !important;
+}
+
+.light-blue {
+  background-color: #03a9f4 !important;
+}
+
+.light-blue-text {
+  color: #03a9f4 !important;
+}
+
+.light-blue.darken-1 {
+  background-color: #039be5 !important;
+}
+
+.light-blue-text.darken-1 {
+  color: #039be5 !important;
+}
+
+.light-blue.darken-2 {
+  background-color: #0288d1 !important;
+}
+
+.light-blue-text.darken-2 {
+  color: #0288d1 !important;
+}
+
+.light-blue.darken-3 {
+  background-color: #0277bd !important;
+}
+
+.light-blue-text.darken-3 {
+  color: #0277bd !important;
+}
+
+.light-blue.darken-4 {
+  background-color: #01579b !important;
+}
+
+.light-blue-text.darken-4 {
+  color: #01579b !important;
+}
+
+.light-blue.accent-1 {
+  background-color: #80d8ff !important;
+}
+
+.light-blue-text.accent-1 {
+  color: #80d8ff !important;
+}
+
+.light-blue.accent-2 {
+  background-color: #40c4ff !important;
+}
+
+.light-blue-text.accent-2 {
+  color: #40c4ff !important;
+}
+
+.light-blue.accent-3 {
+  background-color: #00b0ff !important;
+}
+
+.light-blue-text.accent-3 {
+  color: #00b0ff !important;
+}
+
+.light-blue.accent-4 {
+  background-color: #0091ea !important;
+}
+
+.light-blue-text.accent-4 {
+  color: #0091ea !important;
+}
+
+.cyan.lighten-5 {
+  background-color: #e0f7fa !important;
+}
+
+.cyan-text.lighten-5 {
+  color: #e0f7fa !important;
+}
+
+.cyan.lighten-4 {
+  background-color: #b2ebf2 !important;
+}
+
+.cyan-text.lighten-4 {
+  color: #b2ebf2 !important;
+}
+
+.cyan.lighten-3 {
+  background-color: #80deea !important;
+}
+
+.cyan-text.lighten-3 {
+  color: #80deea !important;
+}
+
+.cyan.lighten-2 {
+  background-color: #4dd0e1 !important;
+}
+
+.cyan-text.lighten-2 {
+  color: #4dd0e1 !important;
+}
+
+.cyan.lighten-1 {
+  background-color: #26c6da !important;
+}
+
+.cyan-text.lighten-1 {
+  color: #26c6da !important;
+}
+
+.cyan {
+  background-color: #00bcd4 !important;
+}
+
+.cyan-text {
+  color: #00bcd4 !important;
+}
+
+.cyan.darken-1 {
+  background-color: #00acc1 !important;
+}
+
+.cyan-text.darken-1 {
+  color: #00acc1 !important;
+}
+
+.cyan.darken-2 {
+  background-color: #0097a7 !important;
+}
+
+.cyan-text.darken-2 {
+  color: #0097a7 !important;
+}
+
+.cyan.darken-3 {
+  background-color: #00838f !important;
+}
+
+.cyan-text.darken-3 {
+  color: #00838f !important;
+}
+
+.cyan.darken-4 {
+  background-color: #006064 !important;
+}
+
+.cyan-text.darken-4 {
+  color: #006064 !important;
+}
+
+.cyan.accent-1 {
+  background-color: #84ffff !important;
+}
+
+.cyan-text.accent-1 {
+  color: #84ffff !important;
+}
+
+.cyan.accent-2 {
+  background-color: #18ffff !important;
+}
+
+.cyan-text.accent-2 {
+  color: #18ffff !important;
+}
+
+.cyan.accent-3 {
+  background-color: #00e5ff !important;
+}
+
+.cyan-text.accent-3 {
+  color: #00e5ff !important;
+}
+
+.cyan.accent-4 {
+  background-color: #00b8d4 !important;
+}
+
+.cyan-text.accent-4 {
+  color: #00b8d4 !important;
+}
+
+.teal.lighten-5 {
+  background-color: #e0f2f1 !important;
+}
+
+.teal-text.lighten-5 {
+  color: #e0f2f1 !important;
+}
+
+.teal.lighten-4 {
+  background-color: #b2dfdb !important;
+}
+
+.teal-text.lighten-4 {
+  color: #b2dfdb !important;
+}
+
+.teal.lighten-3 {
+  background-color: #80cbc4 !important;
+}
+
+.teal-text.lighten-3 {
+  color: #80cbc4 !important;
+}
+
+.teal.lighten-2 {
+  background-color: #4db6ac !important;
+}
+
+.teal-text.lighten-2 {
+  color: #4db6ac !important;
+}
+
+.teal.lighten-1 {
+  background-color: #26a69a !important;
+}
+
+.teal-text.lighten-1 {
+  color: #26a69a !important;
+}
+
+.teal {
+  background-color: #009688 !important;
+}
+
+.teal-text {
+  color: #009688 !important;
+}
+
+.teal.darken-1 {
+  background-color: #00897b !important;
+}
+
+.teal-text.darken-1 {
+  color: #00897b !important;
+}
+
+.teal.darken-2 {
+  background-color: #00796b !important;
+}
+
+.teal-text.darken-2 {
+  color: #00796b !important;
+}
+
+.teal.darken-3 {
+  background-color: #00695c !important;
+}
+
+.teal-text.darken-3 {
+  color: #00695c !important;
+}
+
+.teal.darken-4 {
+  background-color: #004d40 !important;
+}
+
+.teal-text.darken-4 {
+  color: #004d40 !important;
+}
+
+.teal.accent-1 {
+  background-color: #a7ffeb !important;
+}
+
+.teal-text.accent-1 {
+  color: #a7ffeb !important;
+}
+
+.teal.accent-2 {
+  background-color: #64ffda !important;
+}
+
+.teal-text.accent-2 {
+  color: #64ffda !important;
+}
+
+.teal.accent-3 {
+  background-color: #1de9b6 !important;
+}
+
+.teal-text.accent-3 {
+  color: #1de9b6 !important;
+}
+
+.teal.accent-4 {
+  background-color: #00bfa5 !important;
+}
+
+.teal-text.accent-4 {
+  color: #00bfa5 !important;
+}
+
+.green.lighten-5 {
+  background-color: #E8F5E9 !important;
+}
+
+.green-text.lighten-5 {
+  color: #E8F5E9 !important;
+}
+
+.green.lighten-4 {
+  background-color: #C8E6C9 !important;
+}
+
+.green-text.lighten-4 {
+  color: #C8E6C9 !important;
+}
+
+.green.lighten-3 {
+  background-color: #A5D6A7 !important;
+}
+
+.green-text.lighten-3 {
+  color: #A5D6A7 !important;
+}
+
+.green.lighten-2 {
+  background-color: #81C784 !important;
+}
+
+.green-text.lighten-2 {
+  color: #81C784 !important;
+}
+
+.green.lighten-1 {
+  background-color: #66BB6A !important;
+}
+
+.green-text.lighten-1 {
+  color: #66BB6A !important;
+}
+
+.green {
+  background-color: #4CAF50 !important;
+}
+
+.green-text {
+  color: #4CAF50 !important;
+}
+
+.green.darken-1 {
+  background-color: #43A047 !important;
+}
+
+.green-text.darken-1 {
+  color: #43A047 !important;
+}
+
+.green.darken-2 {
+  background-color: #388E3C !important;
+}
+
+.green-text.darken-2 {
+  color: #388E3C !important;
+}
+
+.green.darken-3 {
+  background-color: #2E7D32 !important;
+}
+
+.green-text.darken-3 {
+  color: #2E7D32 !important;
+}
+
+.green.darken-4 {
+  background-color: #1B5E20 !important;
+}
+
+.green-text.darken-4 {
+  color: #1B5E20 !important;
+}
+
+.green.accent-1 {
+  background-color: #B9F6CA !important;
+}
+
+.green-text.accent-1 {
+  color: #B9F6CA !important;
+}
+
+.green.accent-2 {
+  background-color: #69F0AE !important;
+}
+
+.green-text.accent-2 {
+  color: #69F0AE !important;
+}
+
+.green.accent-3 {
+  background-color: #00E676 !important;
+}
+
+.green-text.accent-3 {
+  color: #00E676 !important;
+}
+
+.green.accent-4 {
+  background-color: #00C853 !important;
+}
+
+.green-text.accent-4 {
+  color: #00C853 !important;
+}
+
+.light-green.lighten-5 {
+  background-color: #f1f8e9 !important;
+}
+
+.light-green-text.lighten-5 {
+  color: #f1f8e9 !important;
+}
+
+.light-green.lighten-4 {
+  background-color: #dcedc8 !important;
+}
+
+.light-green-text.lighten-4 {
+  color: #dcedc8 !important;
+}
+
+.light-green.lighten-3 {
+  background-color: #c5e1a5 !important;
+}
+
+.light-green-text.lighten-3 {
+  color: #c5e1a5 !important;
+}
+
+.light-green.lighten-2 {
+  background-color: #aed581 !important;
+}
+
+.light-green-text.lighten-2 {
+  color: #aed581 !important;
+}
+
+.light-green.lighten-1 {
+  background-color: #9ccc65 !important;
+}
+
+.light-green-text.lighten-1 {
+  color: #9ccc65 !important;
+}
+
+.light-green {
+  background-color: #8bc34a !important;
+}
+
+.light-green-text {
+  color: #8bc34a !important;
+}
+
+.light-green.darken-1 {
+  background-color: #7cb342 !important;
+}
+
+.light-green-text.darken-1 {
+  color: #7cb342 !important;
+}
+
+.light-green.darken-2 {
+  background-color: #689f38 !important;
+}
+
+.light-green-text.darken-2 {
+  color: #689f38 !important;
+}
+
+.light-green.darken-3 {
+  background-color: #558b2f !important;
+}
+
+.light-green-text.darken-3 {
+  color: #558b2f !important;
+}
+
+.light-green.darken-4 {
+  background-color: #33691e !important;
+}
+
+.light-green-text.darken-4 {
+  color: #33691e !important;
+}
+
+.light-green.accent-1 {
+  background-color: #ccff90 !important;
+}
+
+.light-green-text.accent-1 {
+  color: #ccff90 !important;
+}
+
+.light-green.accent-2 {
+  background-color: #b2ff59 !important;
+}
+
+.light-green-text.accent-2 {
+  color: #b2ff59 !important;
+}
+
+.light-green.accent-3 {
+  background-color: #76ff03 !important;
+}
+
+.light-green-text.accent-3 {
+  color: #76ff03 !important;
+}
+
+.light-green.accent-4 {
+  background-color: #64dd17 !important;
+}
+
+.light-green-text.accent-4 {
+  color: #64dd17 !important;
+}
+
+.lime.lighten-5 {
+  background-color: #f9fbe7 !important;
+}
+
+.lime-text.lighten-5 {
+  color: #f9fbe7 !important;
+}
+
+.lime.lighten-4 {
+  background-color: #f0f4c3 !important;
+}
+
+.lime-text.lighten-4 {
+  color: #f0f4c3 !important;
+}
+
+.lime.lighten-3 {
+  background-color: #e6ee9c !important;
+}
+
+.lime-text.lighten-3 {
+  color: #e6ee9c !important;
+}
+
+.lime.lighten-2 {
+  background-color: #dce775 !important;
+}
+
+.lime-text.lighten-2 {
+  color: #dce775 !important;
+}
+
+.lime.lighten-1 {
+  background-color: #d4e157 !important;
+}
+
+.lime-text.lighten-1 {
+  color: #d4e157 !important;
+}
+
+.lime {
+  background-color: #cddc39 !important;
+}
+
+.lime-text {
+  color: #cddc39 !important;
+}
+
+.lime.darken-1 {
+  background-color: #c0ca33 !important;
+}
+
+.lime-text.darken-1 {
+  color: #c0ca33 !important;
+}
+
+.lime.darken-2 {
+  background-color: #afb42b !important;
+}
+
+.lime-text.darken-2 {
+  color: #afb42b !important;
+}
+
+.lime.darken-3 {
+  background-color: #9e9d24 !important;
+}
+
+.lime-text.darken-3 {
+  color: #9e9d24 !important;
+}
+
+.lime.darken-4 {
+  background-color: #827717 !important;
+}
+
+.lime-text.darken-4 {
+  color: #827717 !important;
+}
+
+.lime.accent-1 {
+  background-color: #f4ff81 !important;
+}
+
+.lime-text.accent-1 {
+  color: #f4ff81 !important;
+}
+
+.lime.accent-2 {
+  background-color: #eeff41 !important;
+}
+
+.lime-text.accent-2 {
+  color: #eeff41 !important;
+}
+
+.lime.accent-3 {
+  background-color: #c6ff00 !important;
+}
+
+.lime-text.accent-3 {
+  color: #c6ff00 !important;
+}
+
+.lime.accent-4 {
+  background-color: #aeea00 !important;
+}
+
+.lime-text.accent-4 {
+  color: #aeea00 !important;
+}
+
+.yellow.lighten-5 {
+  background-color: #fffde7 !important;
+}
+
+.yellow-text.lighten-5 {
+  color: #fffde7 !important;
+}
+
+.yellow.lighten-4 {
+  background-color: #fff9c4 !important;
+}
+
+.yellow-text.lighten-4 {
+  color: #fff9c4 !important;
+}
+
+.yellow.lighten-3 {
+  background-color: #fff59d !important;
+}
+
+.yellow-text.lighten-3 {
+  color: #fff59d !important;
+}
+
+.yellow.lighten-2 {
+  background-color: #fff176 !important;
+}
+
+.yellow-text.lighten-2 {
+  color: #fff176 !important;
+}
+
+.yellow.lighten-1 {
+  background-color: #ffee58 !important;
+}
+
+.yellow-text.lighten-1 {
+  color: #ffee58 !important;
+}
+
+.yellow {
+  background-color: #ffeb3b !important;
+}
+
+.yellow-text {
+  color: #ffeb3b !important;
+}
+
+.yellow.darken-1 {
+  background-color: #fdd835 !important;
+}
+
+.yellow-text.darken-1 {
+  color: #fdd835 !important;
+}
+
+.yellow.darken-2 {
+  background-color: #fbc02d !important;
+}
+
+.yellow-text.darken-2 {
+  color: #fbc02d !important;
+}
+
+.yellow.darken-3 {
+  background-color: #f9a825 !important;
+}
+
+.yellow-text.darken-3 {
+  color: #f9a825 !important;
+}
+
+.yellow.darken-4 {
+  background-color: #f57f17 !important;
+}
+
+.yellow-text.darken-4 {
+  color: #f57f17 !important;
+}
+
+.yellow.accent-1 {
+  background-color: #ffff8d !important;
+}
+
+.yellow-text.accent-1 {
+  color: #ffff8d !important;
+}
+
+.yellow.accent-2 {
+  background-color: #ffff00 !important;
+}
+
+.yellow-text.accent-2 {
+  color: #ffff00 !important;
+}
+
+.yellow.accent-3 {
+  background-color: #ffea00 !important;
+}
+
+.yellow-text.accent-3 {
+  color: #ffea00 !important;
+}
+
+.yellow.accent-4 {
+  background-color: #ffd600 !important;
+}
+
+.yellow-text.accent-4 {
+  color: #ffd600 !important;
+}
+
+.amber.lighten-5 {
+  background-color: #fff8e1 !important;
+}
+
+.amber-text.lighten-5 {
+  color: #fff8e1 !important;
+}
+
+.amber.lighten-4 {
+  background-color: #ffecb3 !important;
+}
+
+.amber-text.lighten-4 {
+  color: #ffecb3 !important;
+}
+
+.amber.lighten-3 {
+  background-color: #ffe082 !important;
+}
+
+.amber-text.lighten-3 {
+  color: #ffe082 !important;
+}
+
+.amber.lighten-2 {
+  background-color: #ffd54f !important;
+}
+
+.amber-text.lighten-2 {
+  color: #ffd54f !important;
+}
+
+.amber.lighten-1 {
+  background-color: #ffca28 !important;
+}
+
+.amber-text.lighten-1 {
+  color: #ffca28 !important;
+}
+
+.amber {
+  background-color: #ffc107 !important;
+}
+
+.amber-text {
+  color: #ffc107 !important;
+}
+
+.amber.darken-1 {
+  background-color: #ffb300 !important;
+}
+
+.amber-text.darken-1 {
+  color: #ffb300 !important;
+}
+
+.amber.darken-2 {
+  background-color: #ffa000 !important;
+}
+
+.amber-text.darken-2 {
+  color: #ffa000 !important;
+}
+
+.amber.darken-3 {
+  background-color: #ff8f00 !important;
+}
+
+.amber-text.darken-3 {
+  color: #ff8f00 !important;
+}
+
+.amber.darken-4 {
+  background-color: #ff6f00 !important;
+}
+
+.amber-text.darken-4 {
+  color: #ff6f00 !important;
+}
+
+.amber.accent-1 {
+  background-color: #ffe57f !important;
+}
+
+.amber-text.accent-1 {
+  color: #ffe57f !important;
+}
+
+.amber.accent-2 {
+  background-color: #ffd740 !important;
+}
+
+.amber-text.accent-2 {
+  color: #ffd740 !important;
+}
+
+.amber.accent-3 {
+  background-color: #ffc400 !important;
+}
+
+.amber-text.accent-3 {
+  color: #ffc400 !important;
+}
+
+.amber.accent-4 {
+  background-color: #ffab00 !important;
+}
+
+.amber-text.accent-4 {
+  color: #ffab00 !important;
+}
+
+.orange.lighten-5 {
+  background-color: #fff3e0 !important;
+}
+
+.orange-text.lighten-5 {
+  color: #fff3e0 !important;
+}
+
+.orange.lighten-4 {
+  background-color: #ffe0b2 !important;
+}
+
+.orange-text.lighten-4 {
+  color: #ffe0b2 !important;
+}
+
+.orange.lighten-3 {
+  background-color: #ffcc80 !important;
+}
+
+.orange-text.lighten-3 {
+  color: #ffcc80 !important;
+}
+
+.orange.lighten-2 {
+  background-color: #ffb74d !important;
+}
+
+.orange-text.lighten-2 {
+  color: #ffb74d !important;
+}
+
+.orange.lighten-1 {
+  background-color: #ffa726 !important;
+}
+
+.orange-text.lighten-1 {
+  color: #ffa726 !important;
+}
+
+.orange {
+  background-color: #ff9800 !important;
+}
+
+.orange-text {
+  color: #ff9800 !important;
+}
+
+.orange.darken-1 {
+  background-color: #fb8c00 !important;
+}
+
+.orange-text.darken-1 {
+  color: #fb8c00 !important;
+}
+
+.orange.darken-2 {
+  background-color: #f57c00 !important;
+}
+
+.orange-text.darken-2 {
+  color: #f57c00 !important;
+}
+
+.orange.darken-3 {
+  background-color: #ef6c00 !important;
+}
+
+.orange-text.darken-3 {
+  color: #ef6c00 !important;
+}
+
+.orange.darken-4 {
+  background-color: #e65100 !important;
+}
+
+.orange-text.darken-4 {
+  color: #e65100 !important;
+}
+
+.orange.accent-1 {
+  background-color: #ffd180 !important;
+}
+
+.orange-text.accent-1 {
+  color: #ffd180 !important;
+}
+
+.orange.accent-2 {
+  background-color: #ffab40 !important;
+}
+
+.orange-text.accent-2 {
+  color: #ffab40 !important;
+}
+
+.orange.accent-3 {
+  background-color: #ff9100 !important;
+}
+
+.orange-text.accent-3 {
+  color: #ff9100 !important;
+}
+
+.orange.accent-4 {
+  background-color: #ff6d00 !important;
+}
+
+.orange-text.accent-4 {
+  color: #ff6d00 !important;
+}
+
+.deep-orange.lighten-5 {
+  background-color: #fbe9e7 !important;
+}
+
+.deep-orange-text.lighten-5 {
+  color: #fbe9e7 !important;
+}
+
+.deep-orange.lighten-4 {
+  background-color: #ffccbc !important;
+}
+
+.deep-orange-text.lighten-4 {
+  color: #ffccbc !important;
+}
+
+.deep-orange.lighten-3 {
+  background-color: #ffab91 !important;
+}
+
+.deep-orange-text.lighten-3 {
+  color: #ffab91 !important;
+}
+
+.deep-orange.lighten-2 {
+  background-color: #ff8a65 !important;
+}
+
+.deep-orange-text.lighten-2 {
+  color: #ff8a65 !important;
+}
+
+.deep-orange.lighten-1 {
+  background-color: #ff7043 !important;
+}
+
+.deep-orange-text.lighten-1 {
+  color: #ff7043 !important;
+}
+
+.deep-orange {
+  background-color: #ff5722 !important;
+}
+
+.deep-orange-text {
+  color: #ff5722 !important;
+}
+
+.deep-orange.darken-1 {
+  background-color: #f4511e !important;
+}
+
+.deep-orange-text.darken-1 {
+  color: #f4511e !important;
+}
+
+.deep-orange.darken-2 {
+  background-color: #e64a19 !important;
+}
+
+.deep-orange-text.darken-2 {
+  color: #e64a19 !important;
+}
+
+.deep-orange.darken-3 {
+  background-color: #d84315 !important;
+}
+
+.deep-orange-text.darken-3 {
+  color: #d84315 !important;
+}
+
+.deep-orange.darken-4 {
+  background-color: #bf360c !important;
+}
+
+.deep-orange-text.darken-4 {
+  color: #bf360c !important;
+}
+
+.deep-orange.accent-1 {
+  background-color: #ff9e80 !important;
+}
+
+.deep-orange-text.accent-1 {
+  color: #ff9e80 !important;
+}
+
+.deep-orange.accent-2 {
+  background-color: #ff6e40 !important;
+}
+
+.deep-orange-text.accent-2 {
+  color: #ff6e40 !important;
+}
+
+.deep-orange.accent-3 {
+  background-color: #ff3d00 !important;
+}
+
+.deep-orange-text.accent-3 {
+  color: #ff3d00 !important;
+}
+
+.deep-orange.accent-4 {
+  background-color: #dd2c00 !important;
+}
+
+.deep-orange-text.accent-4 {
+  color: #dd2c00 !important;
+}
+
+.brown.lighten-5 {
+  background-color: #efebe9 !important;
+}
+
+.brown-text.lighten-5 {
+  color: #efebe9 !important;
+}
+
+.brown.lighten-4 {
+  background-color: #d7ccc8 !important;
+}
+
+.brown-text.lighten-4 {
+  color: #d7ccc8 !important;
+}
+
+.brown.lighten-3 {
+  background-color: #bcaaa4 !important;
+}
+
+.brown-text.lighten-3 {
+  color: #bcaaa4 !important;
+}
+
+.brown.lighten-2 {
+  background-color: #a1887f !important;
+}
+
+.brown-text.lighten-2 {
+  color: #a1887f !important;
+}
+
+.brown.lighten-1 {
+  background-color: #8d6e63 !important;
+}
+
+.brown-text.lighten-1 {
+  color: #8d6e63 !important;
+}
+
+.brown {
+  background-color: #795548 !important;
+}
+
+.brown-text {
+  color: #795548 !important;
+}
+
+.brown.darken-1 {
+  background-color: #6d4c41 !important;
+}
+
+.brown-text.darken-1 {
+  color: #6d4c41 !important;
+}
+
+.brown.darken-2 {
+  background-color: #5d4037 !important;
+}
+
+.brown-text.darken-2 {
+  color: #5d4037 !important;
+}
+
+.brown.darken-3 {
+  background-color: #4e342e !important;
+}
+
+.brown-text.darken-3 {
+  color: #4e342e !important;
+}
+
+.brown.darken-4 {
+  background-color: #3e2723 !important;
+}
+
+.brown-text.darken-4 {
+  color: #3e2723 !important;
+}
+
+.blue-grey.lighten-5 {
+  background-color: #eceff1 !important;
+}
+
+.blue-grey-text.lighten-5 {
+  color: #eceff1 !important;
+}
+
+.blue-grey.lighten-4 {
+  background-color: #cfd8dc !important;
+}
+
+.blue-grey-text.lighten-4 {
+  color: #cfd8dc !important;
+}
+
+.blue-grey.lighten-3 {
+  background-color: #b0bec5 !important;
+}
+
+.blue-grey-text.lighten-3 {
+  color: #b0bec5 !important;
+}
+
+.blue-grey.lighten-2 {
+  background-color: #90a4ae !important;
+}
+
+.blue-grey-text.lighten-2 {
+  color: #90a4ae !important;
+}
+
+.blue-grey.lighten-1 {
+  background-color: #78909c !important;
+}
+
+.blue-grey-text.lighten-1 {
+  color: #78909c !important;
+}
+
+.blue-grey {
+  background-color: #607d8b !important;
+}
+
+.blue-grey-text {
+  color: #607d8b !important;
+}
+
+.blue-grey.darken-1 {
+  background-color: #546e7a !important;
+}
+
+.blue-grey-text.darken-1 {
+  color: #546e7a !important;
+}
+
+.blue-grey.darken-2 {
+  background-color: #455a64 !important;
+}
+
+.blue-grey-text.darken-2 {
+  color: #455a64 !important;
+}
+
+.blue-grey.darken-3 {
+  background-color: #37474f !important;
+}
+
+.blue-grey-text.darken-3 {
+  color: #37474f !important;
+}
+
+.blue-grey.darken-4 {
+  background-color: #263238 !important;
+}
+
+.blue-grey-text.darken-4 {
+  color: #263238 !important;
+}
+
+.grey.lighten-5 {
+  background-color: #fafafa !important;
+}
+
+.grey-text.lighten-5 {
+  color: #fafafa !important;
+}
+
+.grey.lighten-4 {
+  background-color: #f5f5f5 !important;
+}
+
+.grey-text.lighten-4 {
+  color: #f5f5f5 !important;
+}
+
+.grey.lighten-3 {
+  background-color: #eeeeee !important;
+}
+
+.grey-text.lighten-3 {
+  color: #eeeeee !important;
+}
+
+.grey.lighten-2 {
+  background-color: #e0e0e0 !important;
+}
+
+.grey-text.lighten-2 {
+  color: #e0e0e0 !important;
+}
+
+.grey.lighten-1 {
+  background-color: #bdbdbd !important;
+}
+
+.grey-text.lighten-1 {
+  color: #bdbdbd !important;
+}
+
+.grey {
+  background-color: #9e9e9e !important;
+}
+
+.grey-text {
+  color: #9e9e9e !important;
+}
+
+.grey.darken-1 {
+  background-color: #757575 !important;
+}
+
+.grey-text.darken-1 {
+  color: #757575 !important;
+}
+
+.grey.darken-2 {
+  background-color: #616161 !important;
+}
+
+.grey-text.darken-2 {
+  color: #616161 !important;
+}
+
+.grey.darken-3 {
+  background-color: #424242 !important;
+}
+
+.grey-text.darken-3 {
+  color: #424242 !important;
+}
+
+.grey.darken-4 {
+  background-color: #212121 !important;
+}
+
+.grey-text.darken-4 {
+  color: #212121 !important;
+}
+
+.black {
+  background-color: #000000 !important;
+}
+
+.black-text {
+  color: #000000 !important;
+}
+
+.white {
+  background-color: #FFFFFF !important;
+}
+
+.white-text {
+  color: #FFFFFF !important;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #1E88E5;
+  text-decoration: none;
+}
+
+.no-select, input[type=range], input[type=range] + .thumb {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.left-align {
+  float: left;
+}
+
+.right-align {
+  float: right;
+}
+
 ul {
   padding: 0;
 }
@@ -408,13 +2562,13 @@ li {
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
-.z-depth-1-half, .btn:hover, .btn-large:hover {
+.z-depth-1-half, .btn:hover, .btn-large:hover, .btn-floating:hover {
   -webkit-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
 }
 
-.z-depth-2, .btn-floating:hover {
+.z-depth-2 {
   -webkit-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   -moz-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -452,58 +2606,62 @@ li {
   z-index: -1;
 }
 .parallax img {
+  display: none;
   position: absolute;
-  top: 0;
+  bottom: 0;
   width: 100%;
 }
 
-ul {
-  list-style-type: none;
+@media only screen and (max-width: 992px) {
+  .parallax-container {
+    height: auto;
+  }
+
+  .parallax {
+    position: relative;
+    width: 100%;
+  }
+  .parallax img {
+    position: relative;
+  }
+}
+.text-center {
+  text-align: center;
 }
 
-a {
-  text-decoration: none;
-}
-
-@media only screen and (min-width: 768px) {
-  .show-on-med-and-below, nav a.button-collapse {
+@media only screen and (max-width: 600px) {
+  .hide-on-small-only, .hide-on-small-and-down {
     display: none !important;
   }
 }
 
-@media only screen and (min-width: 1024px) {
-  .show-on-lg-and-below {
+@media only screen and (max-width: 992px) {
+  .hide-on-med-and-down {
     display: none !important;
   }
 }
 
-@media only screen and (max-width: 768px) {
-  .hide-on-med-and-below {
+@media only screen and (min-width: 600px) {
+  .hide-on-med-and-up {
     display: none !important;
   }
 }
 
-@media only screen and (max-width: 480px) {
-  .hide-on-small-and-below {
+@media only screen and (min-width: 600px) and (max-width: 992px) {
+  .hide-on-med-only {
     display: none !important;
   }
 }
 
-@media only screen and (min-width: 480px) {
-  show-on-small-only {
+@media only screen and (min-width: 992px) {
+  .hide-on-large-only, nav a.button-collapse {
     display: none !important;
   }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 480px) {
-  show-on-med-only {
-    display: none !important;
-  }
-}
-
-@media only screen and (max-width: 1024px) {
-  show-on-lg-only {
-    display: none !important;
+@media only screen and (max-width: 600px) {
+  .center-on-small-only {
+    text-align: center;
   }
 }
 
@@ -513,6 +2671,87 @@ a {
 #footer a {
   vertical-align: top;
   line-height: 30px;
+}
+
+table, th, td {
+  border: none;
+}
+
+table {
+  width: 100%;
+  display: table;
+}
+@media only screen and (max-width: 600px) {
+  table thead tr th, table tbody tr td {
+    text-align: center;
+  }
+}
+table.bordered tr {
+  border-bottom: 1px solid #e0e0e0;
+}
+table.striped tbody tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+table.hoverable tbody tr {
+  -webkit-transition: background-color 0.25s ease;
+  -moz-transition: background-color 0.25s ease;
+  -o-transition: background-color 0.25s ease;
+  -ms-transition: background-color 0.25s ease;
+  transition: background-color 0.25s ease;
+}
+table.hoverable tbody tr:hover {
+  background-color: #f2f2f2;
+}
+table.centered thead tr th, table.centered tbody tr td {
+  text-align: center;
+}
+
+thead {
+  border-bottom: 1px solid #878787;
+}
+
+td, th {
+  padding: 15px 5px;
+  display: table-cell;
+  text-align: left;
+  vertical-align: middle;
+  border-radius: 2px;
+}
+
+.collection {
+  background-color: #FFF;
+  margin: 0 0 1rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 2px;
+}
+.collection .collection-item {
+  padding: 10px 20px;
+  margin: 0px;
+  border-bottom: 1px solid #e0e0e0;
+}
+.collection .collection-item:last-child {
+  border-bottom: none;
+}
+.collection a.collection-item {
+  display: block;
+  -webkit-transition: 0.25s;
+  -moz-transition: 0.25s;
+  -o-transition: 0.25s;
+  -ms-transition: 0.25s;
+  transition: 0.25s;
+}
+.collection a.collection-item:not(.active):hover {
+  background-color: #f2f2f2;
+}
+.collection.with-header .collection-header {
+  border-bottom: 1px solid #e0e0e0;
+  padding: 10px 20px;
+}
+.collection.with-header .collection-item {
+  padding-left: 30px;
+}
+.collection .secondary-content {
+  float: right;
 }
 
 @font-face {
@@ -529,7 +2768,6 @@ a {
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
-  line-height: 1;
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -3499,1318 +5737,19 @@ a {
   content: "\e8e4";
 }
 
-.red {
-  background-color: #e51c23;
-}
-.red.lighten-1, nav ul li:hover, nav ul li.active {
-  background-color: #ea454b;
-}
-.red.lighten-2, nav, ul.tabs .indicator {
-  background-color: #ee6e73;
-}
-.red.lighten-3 {
-  background-color: #f3989b;
-}
-.red.lighten-4 {
-  background-color: #f8c1c3;
-}
-.red.lighten-5 {
-  background-color: #fdeaeb;
-}
-.red.darken-1 {
-  background-color: #d0181e;
-}
-.red.darken-2 {
-  background-color: #b9151b;
-}
-.red.darken-3 {
-  background-color: #a21318;
-}
-.red.darken-4 {
-  background-color: #8b1014;
-}
-.red.darken-5 {
-  background-color: #740d11;
-}
-
-.red-text {
-  color: #e51c23;
-}
-.red-text.lighten-1 {
-  color: #ea454b;
-}
-.red-text.lighten-2 {
-  color: #ee6e73;
-}
-.red-text.lighten-3 {
-  color: #f3989b;
-}
-.red-text.lighten-4, ul.tabs li.tab a:hover {
-  color: #f8c1c3;
-}
-.red-text.lighten-5 {
-  color: #fdeaeb;
-}
-.red-text.darken-1 {
-  color: #d0181e;
-}
-.red-text.darken-2 {
-  color: #b9151b;
-}
-.red-text.darken-3 {
-  color: #a21318;
-}
-.red-text.darken-4 {
-  color: #8b1014;
-}
-.red-text.darken-5 {
-  color: #740d11;
-}
-
-.pink {
-  background-color: #e91e63;
-}
-.pink.lighten-1 {
-  background-color: #ed4880;
-}
-.pink.lighten-2 {
-  background-color: #f1729d;
-}
-.pink.lighten-3 {
-  background-color: #f59bba;
-}
-.pink.lighten-4 {
-  background-color: #f9c5d7;
-}
-.pink.lighten-5 {
-  background-color: #fdeff4;
-}
-.pink.darken-1 {
-  background-color: #d81557;
-}
-.pink.darken-2 {
-  background-color: #c1134e;
-}
-.pink.darken-3 {
-  background-color: #aa1145;
-}
-.pink.darken-4 {
-  background-color: #930e3b;
-}
-.pink.darken-5 {
-  background-color: #7b0c32;
-}
-
-.pink-text {
-  color: #e91e63;
-}
-.pink-text.lighten-1 {
-  color: #ed4880;
-}
-.pink-text.lighten-2 {
-  color: #f1729d;
-}
-.pink-text.lighten-3 {
-  color: #f59bba;
-}
-.pink-text.lighten-4 {
-  color: #f9c5d7;
-}
-.pink-text.lighten-5 {
-  color: #fdeff4;
-}
-.pink-text.darken-1 {
-  color: #d81557;
-}
-.pink-text.darken-2 {
-  color: #c1134e;
-}
-.pink-text.darken-3 {
-  color: #aa1145;
-}
-.pink-text.darken-4 {
-  color: #930e3b;
-}
-.pink-text.darken-5 {
-  color: #7b0c32;
-}
-
-.purple {
-  background-color: #9c27b0;
-}
-.purple.lighten-1 {
-  background-color: #bb33d2;
-}
-.purple.lighten-2 {
-  background-color: #c759da;
-}
-.purple.lighten-3 {
-  background-color: #d47ee2;
-}
-.purple.lighten-4 {
-  background-color: #e0a4eb;
-}
-.purple.lighten-5 {
-  background-color: #edc9f3;
-}
-.purple.darken-1 {
-  background-color: #89229b;
-}
-.purple.darken-2 {
-  background-color: #771e86;
-}
-.purple.darken-3 {
-  background-color: #641971;
-}
-.purple.darken-4 {
-  background-color: #52145d;
-}
-.purple.darken-5 {
-  background-color: #3f1048;
-}
-
-.purple-text {
-  color: #9c27b0;
-}
-.purple-text.lighten-1 {
-  color: #bb33d2;
-}
-.purple-text.lighten-2 {
-  color: #c759da;
-}
-.purple-text.lighten-3 {
-  color: #d47ee2;
-}
-.purple-text.lighten-4 {
-  color: #e0a4eb;
-}
-.purple-text.lighten-5 {
-  color: #edc9f3;
-}
-.purple-text.darken-1 {
-  color: #89229b;
-}
-.purple-text.darken-2 {
-  color: #771e86;
-}
-.purple-text.darken-3 {
-  color: #641971;
-}
-.purple-text.darken-4 {
-  color: #52145d;
-}
-.purple-text.darken-5 {
-  color: #3f1048;
-}
-
-.deep-purple {
-  background-color: #673ab7;
-}
-.deep-purple.lighten-1 {
-  background-color: #7f56c9;
-}
-.deep-purple.lighten-2 {
-  background-color: #9a78d4;
-}
-.deep-purple.lighten-3 {
-  background-color: #b49bdf;
-}
-.deep-purple.lighten-4 {
-  background-color: #cebeea;
-}
-.deep-purple.lighten-5 {
-  background-color: #e8e1f5;
-}
-.deep-purple.darken-1 {
-  background-color: #5c34a4;
-}
-.deep-purple.darken-2 {
-  background-color: #512e90;
-}
-.deep-purple.darken-3 {
-  background-color: #46287d;
-}
-.deep-purple.darken-4 {
-  background-color: #3b216a;
-}
-.deep-purple.darken-5 {
-  background-color: #311b56;
-}
-
-.deep-purple-text {
-  color: #673ab7;
-}
-.deep-purple-text.lighten-1 {
-  color: #7f56c9;
-}
-.deep-purple-text.lighten-2 {
-  color: #9a78d4;
-}
-.deep-purple-text.lighten-3 {
-  color: #b49bdf;
-}
-.deep-purple-text.lighten-4 {
-  color: #cebeea;
-}
-.deep-purple-text.lighten-5 {
-  color: #e8e1f5;
-}
-.deep-purple-text.darken-1 {
-  color: #5c34a4;
-}
-.deep-purple-text.darken-2 {
-  color: #512e90;
-}
-.deep-purple-text.darken-3 {
-  color: #46287d;
-}
-.deep-purple-text.darken-4 {
-  color: #3b216a;
-}
-.deep-purple-text.darken-5 {
-  color: #311b56;
-}
-
-.indigo {
-  background-color: #3f51b5;
-}
-.indigo.lighten-1 {
-  background-color: #5c6cc6;
-}
-.indigo.lighten-2 {
-  background-color: #7e8bd2;
-}
-.indigo.lighten-3 {
-  background-color: #a0a9de;
-}
-.indigo.lighten-4 {
-  background-color: #c2c8ea;
-}
-.indigo.lighten-5 {
-  background-color: #e4e7f6;
-}
-.indigo.darken-1 {
-  background-color: #3849a2;
-}
-.indigo.darken-2 {
-  background-color: #32408f;
-}
-.indigo.darken-3 {
-  background-color: #2b387c;
-}
-.indigo.darken-4 {
-  background-color: #252f69;
-}
-.indigo.darken-5 {
-  background-color: #1e2756;
-}
-
-.indigo-text {
-  color: #3f51b5;
-}
-.indigo-text.lighten-1 {
-  color: #5c6cc6;
-}
-.indigo-text.lighten-2 {
-  color: #7e8bd2;
-}
-.indigo-text.lighten-3 {
-  color: #a0a9de;
-}
-.indigo-text.lighten-4 {
-  color: #c2c8ea;
-}
-.indigo-text.lighten-5 {
-  color: #e4e7f6;
-}
-.indigo-text.darken-1 {
-  color: #3849a2;
-}
-.indigo-text.darken-2 {
-  color: #32408f;
-}
-.indigo-text.darken-3 {
-  color: #2b387c;
-}
-.indigo-text.darken-4 {
-  color: #252f69;
-}
-.indigo-text.darken-5 {
-  color: #1e2756;
-}
-
-.blue {
-  background-color: #5677fc;
-}
-.blue.lighten-1 {
-  background-color: #748ffd;
-}
-.blue.lighten-2 {
-  background-color: #92a7fd;
-}
-.blue.lighten-3 {
-  background-color: #b0c0fe;
-}
-.blue.lighten-4 {
-  background-color: #ced8fe;
-}
-.blue.lighten-5 {
-  background-color: #ecf0ff;
-}
-.blue.darken-1 {
-  background-color: #3d63fc;
-}
-.blue.darken-2 {
-  background-color: #244ffb;
-}
-.blue.darken-3 {
-  background-color: #0b3bfb;
-}
-.blue.darken-4 {
-  background-color: #0431e8;
-}
-.blue.darken-5 {
-  background-color: #042ccf;
-}
-
-.blue-text {
-  color: #5677fc;
-}
-.blue-text.lighten-1 {
-  color: #748ffd;
-}
-.blue-text.lighten-2 {
-  color: #92a7fd;
-}
-.blue-text.lighten-3 {
-  color: #b0c0fe;
-}
-.blue-text.lighten-4 {
-  color: #ced8fe;
-}
-.blue-text.lighten-5 {
-  color: #ecf0ff;
-}
-.blue-text.darken-1 {
-  color: #3d63fc;
-}
-.blue-text.darken-2 {
-  color: #244ffb;
-}
-.blue-text.darken-3 {
-  color: #0b3bfb;
-}
-.blue-text.darken-4 {
-  color: #0431e8;
-}
-.blue-text.darken-5 {
-  color: #042ccf;
-}
-
-.light-blue {
-  background-color: #03a9f4;
-}
-.light-blue.lighten-1 {
-  background-color: #29bafc;
-}
-.light-blue.lighten-2 {
-  background-color: #56c9fd;
-}
-.light-blue.lighten-3 {
-  background-color: #83d7fd;
-}
-.light-blue.lighten-4 {
-  background-color: #b1e6fe;
-}
-.light-blue.lighten-5 {
-  background-color: #def4ff;
-}
-.light-blue.darken-1 {
-  background-color: #0398db;
-}
-.light-blue.darken-2 {
-  background-color: #0286c2;
-}
-.light-blue.darken-3 {
-  background-color: #0275a8;
-}
-.light-blue.darken-4 {
-  background-color: #02638f;
-}
-.light-blue.darken-5 {
-  background-color: #015276;
-}
-
-.light-blue-text {
-  color: #03a9f4;
-}
-.light-blue-text.lighten-1 {
-  color: #29bafc;
-}
-.light-blue-text.lighten-2 {
-  color: #56c9fd;
-}
-.light-blue-text.lighten-3 {
-  color: #83d7fd;
-}
-.light-blue-text.lighten-4 {
-  color: #b1e6fe;
-}
-.light-blue-text.lighten-5 {
-  color: #def4ff;
-}
-.light-blue-text.darken-1, a {
-  color: #0398db;
-}
-.light-blue-text.darken-2 {
-  color: #0286c2;
-}
-.light-blue-text.darken-3 {
-  color: #0275a8;
-}
-.light-blue-text.darken-4 {
-  color: #02638f;
-}
-.light-blue-text.darken-5 {
-  color: #015276;
-}
-
-.cyan {
-  background-color: #00bcd4;
-}
-.cyan.lighten-1 {
-  background-color: #03e2ff;
-}
-.cyan.lighten-2 {
-  background-color: #31e8ff;
-}
-.cyan.lighten-3 {
-  background-color: #5fedff;
-}
-.cyan.lighten-4 {
-  background-color: #8df2ff;
-}
-.cyan.lighten-5 {
-  background-color: #baf7ff;
-}
-.cyan.darken-1 {
-  background-color: #00a5bb;
-}
-.cyan.darken-2 {
-  background-color: #008fa1;
-}
-.cyan.darken-3 {
-  background-color: #007888;
-}
-.cyan.darken-4 {
-  background-color: #00626e;
-}
-.cyan.darken-5 {
-  background-color: #004b55;
-}
-
-.cyan-text {
-  color: #00bcd4;
-}
-.cyan-text.lighten-1 {
-  color: #03e2ff;
-}
-.cyan-text.lighten-2 {
-  color: #31e8ff;
-}
-.cyan-text.lighten-3 {
-  color: #5fedff;
-}
-.cyan-text.lighten-4 {
-  color: #8df2ff;
-}
-.cyan-text.lighten-5 {
-  color: #baf7ff;
-}
-.cyan-text.darken-1 {
-  color: #00a5bb;
-}
-.cyan-text.darken-2 {
-  color: #008fa1;
-}
-.cyan-text.darken-3 {
-  color: #007888;
-}
-.cyan-text.darken-4 {
-  color: #00626e;
-}
-.cyan-text.darken-5 {
-  color: #004b55;
-}
-
-.teal {
-  background-color: #009688;
-}
-.teal.lighten-1 {
-  background-color: #00d3bf;
-}
-.teal.lighten-2 {
-  background-color: #11ffe9;
-}
-.teal.lighten-3 {
-  background-color: #4fffef;
-}
-.teal.lighten-4 {
-  background-color: #8cfff4;
-}
-.teal.lighten-5 {
-  background-color: #c9fffa;
-}
-.teal.darken-1 {
-  background-color: #007d71;
-}
-.teal.darken-2 {
-  background-color: #00635a;
-}
-.teal.darken-3 {
-  background-color: #004a43;
-}
-.teal.darken-4 {
-  background-color: #00302c;
-}
-.teal.darken-5 {
-  background-color: #001714;
-}
-
-.teal-text {
-  color: #009688;
-}
-.teal-text.lighten-1 {
-  color: #00d3bf;
-}
-.teal-text.lighten-2 {
-  color: #11ffe9;
-}
-.teal-text.lighten-3 {
-  color: #4fffef;
-}
-.teal-text.lighten-4 {
-  color: #8cfff4;
-}
-.teal-text.lighten-5 {
-  color: #c9fffa;
-}
-.teal-text.darken-1 {
-  color: #007d71;
-}
-.teal-text.darken-2 {
-  color: #00635a;
-}
-.teal-text.darken-3 {
-  color: #004a43;
-}
-.teal-text.darken-4 {
-  color: #00302c;
-}
-.teal-text.darken-5 {
-  color: #001714;
-}
-
-.green {
-  background-color: #259b24;
-}
-.green.lighten-1 {
-  background-color: #2ec02d;
-}
-.green.lighten-2 {
-  background-color: #48d447;
-}
-.green.lighten-3 {
-  background-color: #6ddd6c;
-}
-.green.lighten-4 {
-  background-color: #92e591;
-}
-.green.lighten-5 {
-  background-color: #b7eeb6;
-}
-.green.darken-1 {
-  background-color: #20861f;
-}
-.green.darken-2 {
-  background-color: #1b721a;
-}
-.green.darken-3 {
-  background-color: #165d16;
-}
-.green.darken-4 {
-  background-color: #114811;
-}
-.green.darken-5 {
-  background-color: #0c340c;
-}
-
-.green-text {
-  color: #259b24;
-}
-.green-text.lighten-1 {
-  color: #2ec02d;
-}
-.green-text.lighten-2 {
-  color: #48d447;
-}
-.green-text.lighten-3 {
-  color: #6ddd6c;
-}
-.green-text.lighten-4 {
-  color: #92e591;
-}
-.green-text.lighten-5 {
-  color: #b7eeb6;
-}
-.green-text.darken-1 {
-  color: #20861f;
-}
-.green-text.darken-2 {
-  color: #1b721a;
-}
-.green-text.darken-3 {
-  color: #165d16;
-}
-.green-text.darken-4 {
-  color: #114811;
-}
-.green-text.darken-5 {
-  color: #0c340c;
-}
-
-.light-green {
-  background-color: #8bc34a;
-}
-.light-green.lighten-1 {
-  background-color: #a1ce6c;
-}
-.light-green.lighten-2 {
-  background-color: #b7da8f;
-}
-.light-green.lighten-3 {
-  background-color: #cde5b1;
-}
-.light-green.lighten-4 {
-  background-color: #e3f1d4;
-}
-.light-green.lighten-5 {
-  background-color: #f9fcf6;
-}
-.light-green.darken-1 {
-  background-color: #7eb73d;
-}
-.light-green.darken-2 {
-  background-color: #71a436;
-}
-.light-green.darken-3 {
-  background-color: #649130;
-}
-.light-green.darken-4 {
-  background-color: #577d2a;
-}
-.light-green.darken-5 {
-  background-color: #496a23;
-}
-
-.light-green-text {
-  color: #8bc34a;
-}
-.light-green-text.lighten-1 {
-  color: #a1ce6c;
-}
-.light-green-text.lighten-2 {
-  color: #b7da8f;
-}
-.light-green-text.lighten-3 {
-  color: #cde5b1;
-}
-.light-green-text.lighten-4 {
-  color: #e3f1d4;
-}
-.light-green-text.lighten-5 {
-  color: #f9fcf6;
-}
-.light-green-text.darken-1 {
-  color: #7eb73d;
-}
-.light-green-text.darken-2 {
-  color: #71a436;
-}
-.light-green-text.darken-3 {
-  color: #649130;
-}
-.light-green-text.darken-4 {
-  color: #577d2a;
-}
-.light-green-text.darken-5 {
-  color: #496a23;
-}
-
-.lime {
-  background-color: #cddc39;
-}
-.lime.lighten-1 {
-  background-color: #d7e360;
-}
-.lime.lighten-2 {
-  background-color: #e1ea87;
-}
-.lime.lighten-3 {
-  background-color: #ebf1ae;
-}
-.lime.lighten-4 {
-  background-color: #f4f8d5;
-}
-.lime.lighten-5 {
-  background-color: #fefefc;
-}
-.lime.darken-1 {
-  background-color: #c6d626;
-}
-.lime.darken-2 {
-  background-color: #b2c022;
-}
-.lime.darken-3 {
-  background-color: #9daa1e;
-}
-.lime.darken-4 {
-  background-color: #89951a;
-}
-.lime.darken-5 {
-  background-color: #757f16;
-}
-
-.lime-text {
-  color: #cddc39;
-}
-.lime-text.lighten-1 {
-  color: #d7e360;
-}
-.lime-text.lighten-2 {
-  color: #e1ea87;
-}
-.lime-text.lighten-3 {
-  color: #ebf1ae;
-}
-.lime-text.lighten-4 {
-  color: #f4f8d5;
-}
-.lime-text.lighten-5 {
-  color: #fefefc;
-}
-.lime-text.darken-1 {
-  color: #c6d626;
-}
-.lime-text.darken-2 {
-  color: #b2c022;
-}
-.lime-text.darken-3 {
-  color: #9daa1e;
-}
-.lime-text.darken-4 {
-  color: #89951a;
-}
-.lime-text.darken-5 {
-  color: #757f16;
-}
-
-.yellow {
-  background-color: #ffeb3b;
-}
-.yellow.lighten-1 {
-  background-color: #ffef5f;
-}
-.yellow.lighten-2 {
-  background-color: #fff282;
-}
-.yellow.lighten-3 {
-  background-color: #fff6a6;
-}
-.yellow.lighten-4 {
-  background-color: #fffaca;
-}
-.yellow.lighten-5 {
-  background-color: #fffded;
-}
-.yellow.darken-1 {
-  background-color: #ffe821;
-}
-.yellow.darken-2 {
-  background-color: #ffe608;
-}
-.yellow.darken-3 {
-  background-color: #eed500;
-}
-.yellow.darken-4 {
-  background-color: #d4be00;
-}
-.yellow.darken-5 {
-  background-color: #bba700;
-}
-
-.yellow-text {
-  color: #ffeb3b;
-}
-.yellow-text.lighten-1 {
-  color: #ffef5f;
-}
-.yellow-text.lighten-2 {
-  color: #fff282;
-}
-.yellow-text.lighten-3 {
-  color: #fff6a6;
-}
-.yellow-text.lighten-4 {
-  color: #fffaca;
-}
-.yellow-text.lighten-5 {
-  color: #fffded;
-}
-.yellow-text.darken-1 {
-  color: #ffe821;
-}
-.yellow-text.darken-2 {
-  color: #ffe608;
-}
-.yellow-text.darken-3 {
-  color: #eed500;
-}
-.yellow-text.darken-4 {
-  color: #d4be00;
-}
-.yellow-text.darken-5 {
-  color: #bba700;
-}
-
-.amber {
-  background-color: #ffc107;
-}
-.amber.lighten-1 {
-  background-color: #ffcc35;
-}
-.amber.lighten-2 {
-  background-color: #ffd863;
-}
-.amber.lighten-3 {
-  background-color: #ffe391;
-}
-.amber.lighten-4 {
-  background-color: #ffefbf;
-}
-.amber.lighten-5 {
-  background-color: #fffaed;
-}
-.amber.darken-1 {
-  background-color: #ecb100;
-}
-.amber.darken-2 {
-  background-color: #d39e00;
-}
-.amber.darken-3 {
-  background-color: #b98b00;
-}
-.amber.darken-4 {
-  background-color: #a07800;
-}
-.amber.darken-5 {
-  background-color: #866500;
-}
-
-.amber-text {
-  color: #ffc107;
-}
-.amber-text.lighten-1 {
-  color: #ffcc35;
-}
-.amber-text.lighten-2 {
-  color: #ffd863;
-}
-.amber-text.lighten-3 {
-  color: #ffe391;
-}
-.amber-text.lighten-4 {
-  color: #ffefbf;
-}
-.amber-text.lighten-5 {
-  color: #fffaed;
-}
-.amber-text.darken-1 {
-  color: #ecb100;
-}
-.amber-text.darken-2 {
-  color: #d39e00;
-}
-.amber-text.darken-3 {
-  color: #b98b00;
-}
-.amber-text.darken-4 {
-  color: #a07800;
-}
-.amber-text.darken-5 {
-  color: #866500;
-}
-
-.orange {
-  background-color: #ff9800;
-}
-.orange.lighten-1 {
-  background-color: #ffab2e;
-}
-.orange.lighten-2 {
-  background-color: #ffbd5c;
-}
-.orange.lighten-3 {
-  background-color: #ffd08a;
-}
-.orange.lighten-4 {
-  background-color: #ffe2b8;
-}
-.orange.lighten-5 {
-  background-color: #fff5e5;
-}
-.orange.darken-1 {
-  background-color: #e68900;
-}
-.orange.darken-2 {
-  background-color: #cc7a00;
-}
-.orange.darken-3 {
-  background-color: #b36a00;
-}
-.orange.darken-4 {
-  background-color: #995b00;
-}
-.orange.darken-5 {
-  background-color: #804c00;
-}
-
-.orange-text {
-  color: #ff9800;
-}
-.orange-text.lighten-1 {
-  color: #ffab2e;
-}
-.orange-text.lighten-2 {
-  color: #ffbd5c;
-}
-.orange-text.lighten-3 {
-  color: #ffd08a;
-}
-.orange-text.lighten-4 {
-  color: #ffe2b8;
-}
-.orange-text.lighten-5 {
-  color: #fff5e5;
-}
-.orange-text.darken-1 {
-  color: #e68900;
-}
-.orange-text.darken-2 {
-  color: #cc7a00;
-}
-.orange-text.darken-3 {
-  color: #b36a00;
-}
-.orange-text.darken-4 {
-  color: #995b00;
-}
-.orange-text.darken-5 {
-  color: #804c00;
-}
-
-.deep-orange {
-  background-color: #ff5722;
-}
-.deep-orange.lighten-1 {
-  background-color: #ff7a50;
-}
-.deep-orange.lighten-2 {
-  background-color: #ff9d7e;
-}
-.deep-orange.lighten-3 {
-  background-color: #ffc0ac;
-}
-.deep-orange.lighten-4 {
-  background-color: #ffe3da;
-}
-.deep-orange.lighten-5 {
-  background-color: white;
-}
-.deep-orange.darken-1 {
-  background-color: #ff4408;
-}
-.deep-orange.darken-2 {
-  background-color: #ee3900;
-}
-.deep-orange.darken-3 {
-  background-color: #d43300;
-}
-.deep-orange.darken-4 {
-  background-color: #bb2d00;
-}
-.deep-orange.darken-5 {
-  background-color: #a22700;
-}
-
-.deep-orange-text {
-  color: #ff5722;
-}
-.deep-orange-text.lighten-1 {
-  color: #ff7a50;
-}
-.deep-orange-text.lighten-2 {
-  color: #ff9d7e;
-}
-.deep-orange-text.lighten-3 {
-  color: #ffc0ac;
-}
-.deep-orange-text.lighten-4 {
-  color: #ffe3da;
-}
-.deep-orange-text.lighten-5 {
-  color: white;
-}
-.deep-orange-text.darken-1 {
-  color: #ff4408;
-}
-.deep-orange-text.darken-2 {
-  color: #ee3900;
-}
-.deep-orange-text.darken-3 {
-  color: #d43300;
-}
-.deep-orange-text.darken-4 {
-  color: #bb2d00;
-}
-.deep-orange-text.darken-5 {
-  color: #a22700;
-}
-
-.brown {
-  background-color: #795548;
-}
-.brown.lighten-1 {
-  background-color: #966959;
-}
-.brown.lighten-2 {
-  background-color: #ab8172;
-}
-.brown.lighten-3 {
-  background-color: #bc9b8f;
-}
-.brown.lighten-4 {
-  background-color: #cdb4ab;
-}
-.brown.lighten-5 {
-  background-color: #decec8;
-}
-.brown.darken-1 {
-  background-color: #694a3e;
-}
-.brown.darken-2 {
-  background-color: #593f35;
-}
-.brown.darken-3 {
-  background-color: #49332b;
-}
-.brown.darken-4 {
-  background-color: #392822;
-}
-.brown.darken-5 {
-  background-color: #291d18;
-}
-
-.brown-text {
-  color: #795548;
-}
-.brown-text.lighten-1 {
-  color: #966959;
-}
-.brown-text.lighten-2 {
-  color: #ab8172;
-}
-.brown-text.lighten-3 {
-  color: #bc9b8f;
-}
-.brown-text.lighten-4 {
-  color: #cdb4ab;
-}
-.brown-text.lighten-5 {
-  color: #decec8;
-}
-.brown-text.darken-1 {
-  color: #694a3e;
-}
-.brown-text.darken-2 {
-  color: #593f35;
-}
-.brown-text.darken-3 {
-  color: #49332b;
-}
-.brown-text.darken-4 {
-  color: #392822;
-}
-.brown-text.darken-5 {
-  color: #291d18;
-}
-
-.grey {
-  background-color: #9e9e9e;
-}
-.grey.lighten-1 {
-  background-color: #b5b5b5;
-}
-.grey.lighten-2 {
-  background-color: #cccccc;
-}
-.grey.lighten-3 {
-  background-color: #e3e3e3;
-}
-.grey.lighten-4 {
-  background-color: #fafafa;
-}
-.grey.lighten-5 {
-  background-color: white;
-}
-.grey.darken-1 {
-  background-color: #878787;
-}
-.grey.darken-2 {
-  background-color: #707070;
-}
-.grey.darken-3 {
-  background-color: #595959;
-}
-.grey.darken-4 {
-  background-color: #424242;
-}
-.grey.darken-5 {
-  background-color: #2b2b2b;
-}
-
-.grey-text {
-  color: #9e9e9e;
-}
-.grey-text.lighten-1 {
-  color: #b5b5b5;
-}
-.grey-text.lighten-2 {
-  color: #cccccc;
-}
-.grey-text.lighten-3 {
-  color: #e3e3e3;
-}
-.grey-text.lighten-4 {
-  color: #fafafa;
-}
-.grey-text.lighten-5 {
-  color: white;
-}
-.grey-text.darken-1 {
-  color: #878787;
-}
-.grey-text.darken-2 {
-  color: #707070;
-}
-.grey-text.darken-3 {
-  color: #595959;
-}
-.grey-text.darken-4 {
-  color: #424242;
-}
-.grey-text.darken-5 {
-  color: #2b2b2b;
-}
-
-.blue-grey {
-  background-color: #607d8b;
-}
-.blue-grey.lighten-1 {
-  background-color: #7794a1;
-}
-.blue-grey.lighten-2 {
-  background-color: #93a9b4;
-}
-.blue-grey.lighten-3 {
-  background-color: #aebfc7;
-}
-.blue-grey.lighten-4 {
-  background-color: #c9d4da;
-}
-.blue-grey.lighten-5 {
-  background-color: #e4eaec;
-}
-.blue-grey.darken-1 {
-  background-color: #566f7c;
-}
-.blue-grey.darken-2 {
-  background-color: #4b626d;
-}
-.blue-grey.darken-3 {
-  background-color: #41545e;
-}
-.blue-grey.darken-4 {
-  background-color: #36474f;
-}
-.blue-grey.darken-5 {
-  background-color: #2c3940;
-}
-
-.blue-grey-text {
-  color: #607d8b;
-}
-.blue-grey-text.lighten-1 {
-  color: #7794a1;
-}
-.blue-grey-text.lighten-2 {
-  color: #93a9b4;
-}
-.blue-grey-text.lighten-3 {
-  color: #aebfc7;
-}
-.blue-grey-text.lighten-4 {
-  color: #c9d4da;
-}
-.blue-grey-text.lighten-5 {
-  color: #e4eaec;
-}
-.blue-grey-text.darken-1 {
-  color: #566f7c;
-}
-.blue-grey-text.darken-2 {
-  color: #4b626d;
-}
-.blue-grey-text.darken-3 {
-  color: #41545e;
-}
-.blue-grey-text.darken-4 {
-  color: #36474f;
-}
-.blue-grey-text.darken-5 {
-  color: #2c3940;
-}
-
-.white {
-  background-color: #fff;
-}
-
-.white-text {
-  color: #fff;
-}
-
 .container {
   padding: 0 1rem;
   margin: 0 auto;
   max-width: 1280px;
+  width: 90%;
 }
 
-@media only screen and (min-width: 0) {
+@media only screen and (min-width: 600px) {
   .container {
-    width: 90%;
+    width: 85%;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
   .container {
     width: 70%;
   }
@@ -4821,8 +5760,17 @@ a {
 }
 
 .section {
-  padding-top: 2%;
+  padding-top: 3%;
   padding-bottom: 3%;
+}
+.section.no-pad {
+  padding: 0;
+}
+.section.no-pad-bot {
+  padding-bottom: 0;
+}
+.section.no-pad-top {
+  padding-top: 0;
 }
 
 .section .row {
@@ -4846,93 +5794,91 @@ a {
   box-sizing: border-box;
   padding: 0 0.5rem;
 }
-@media only screen and (min-width: 0) {
-  .row .col.s1 {
-    width: 8.33333%;
-    margin-left: 0;
-  }
-  .row .col.s2 {
-    width: 16.66667%;
-    margin-left: 0;
-  }
-  .row .col.s3 {
-    width: 25%;
-    margin-left: 0;
-  }
-  .row .col.s4 {
-    width: 33.33333%;
-    margin-left: 0;
-  }
-  .row .col.s5 {
-    width: 41.66667%;
-    margin-left: 0;
-  }
-  .row .col.s6 {
-    width: 50%;
-    margin-left: 0;
-  }
-  .row .col.s7 {
-    width: 58.33333%;
-    margin-left: 0;
-  }
-  .row .col.s8 {
-    width: 66.66667%;
-    margin-left: 0;
-  }
-  .row .col.s9 {
-    width: 75%;
-    margin-left: 0;
-  }
-  .row .col.s10 {
-    width: 83.33333%;
-    margin-left: 0;
-  }
-  .row .col.s11 {
-    width: 91.66667%;
-    margin-left: 0;
-  }
-  .row .col.s12 {
-    width: 100%;
-    margin-left: 0;
-  }
-  .row .col.offset-s1 {
-    margin-left: 8.33333%;
-  }
-  .row .col.offset-s2 {
-    margin-left: 16.66667%;
-  }
-  .row .col.offset-s3 {
-    margin-left: 25%;
-  }
-  .row .col.offset-s4 {
-    margin-left: 33.33333%;
-  }
-  .row .col.offset-s5 {
-    margin-left: 41.66667%;
-  }
-  .row .col.offset-s6 {
-    margin-left: 50%;
-  }
-  .row .col.offset-s7 {
-    margin-left: 58.33333%;
-  }
-  .row .col.offset-s8 {
-    margin-left: 66.66667%;
-  }
-  .row .col.offset-s9 {
-    margin-left: 75%;
-  }
-  .row .col.offset-s10 {
-    margin-left: 83.33333%;
-  }
-  .row .col.offset-s11 {
-    margin-left: 91.66667%;
-  }
-  .row .col.offset-s12 {
-    margin-left: 100%;
-  }
+.row .col.s1 {
+  width: 8.33333%;
+  margin-left: 0;
 }
-@media only screen and (min-width: 480px) {
+.row .col.s2 {
+  width: 16.66667%;
+  margin-left: 0;
+}
+.row .col.s3 {
+  width: 25%;
+  margin-left: 0;
+}
+.row .col.s4 {
+  width: 33.33333%;
+  margin-left: 0;
+}
+.row .col.s5 {
+  width: 41.66667%;
+  margin-left: 0;
+}
+.row .col.s6 {
+  width: 50%;
+  margin-left: 0;
+}
+.row .col.s7 {
+  width: 58.33333%;
+  margin-left: 0;
+}
+.row .col.s8 {
+  width: 66.66667%;
+  margin-left: 0;
+}
+.row .col.s9 {
+  width: 75%;
+  margin-left: 0;
+}
+.row .col.s10 {
+  width: 83.33333%;
+  margin-left: 0;
+}
+.row .col.s11 {
+  width: 91.66667%;
+  margin-left: 0;
+}
+.row .col.s12 {
+  width: 100%;
+  margin-left: 0;
+}
+.row .col.offset-s1 {
+  margin-left: 8.33333%;
+}
+.row .col.offset-s2 {
+  margin-left: 16.66667%;
+}
+.row .col.offset-s3 {
+  margin-left: 25%;
+}
+.row .col.offset-s4 {
+  margin-left: 33.33333%;
+}
+.row .col.offset-s5 {
+  margin-left: 41.66667%;
+}
+.row .col.offset-s6 {
+  margin-left: 50%;
+}
+.row .col.offset-s7 {
+  margin-left: 58.33333%;
+}
+.row .col.offset-s8 {
+  margin-left: 66.66667%;
+}
+.row .col.offset-s9 {
+  margin-left: 75%;
+}
+.row .col.offset-s10 {
+  margin-left: 83.33333%;
+}
+.row .col.offset-s11 {
+  margin-left: 91.66667%;
+}
+.row .col.offset-s12 {
+  margin-left: 100%;
+}
+@media only screen and (min-width: 600px) {
   .row .col.m1 {
     width: 8.33333%;
     margin-left: 0;
@@ -5018,7 +5964,7 @@ a {
     margin-left: 100%;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
   .row .col.l1 {
     width: 8.33333%;
     margin-left: 0;
@@ -5107,7 +6053,10 @@ a {
 
 nav {
   color: #fff;
+  background-color: #ee6e73;
   width: 100%;
+  height: 56px;
+  line-height: 56px;
 }
 nav .nav-wrapper {
   position: relative;
@@ -5118,9 +6067,13 @@ nav a {
 }
 nav a.button-collapse {
   float: left;
-  font-size: 2.7rem;
   position: relative;
   z-index: 1;
+}
+nav a.button-collapse i {
+  font-size: 2.7rem;
+  height: 56px;
+  line-height: 56px;
 }
 nav .brand-logo {
   position: absolute;
@@ -5129,7 +6082,7 @@ nav .brand-logo {
   font-size: 2.1rem;
   padding: 0;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 992px) {
   nav .brand-logo {
     width: 100%;
     text-align: center;
@@ -5153,26 +6106,27 @@ nav ul li {
   -ms-transition: background-color 0.3s;
   transition: background-color 0.3s;
 }
+nav ul li:hover, nav ul li.active {
+  background-color: #ea454b;
+}
 nav ul a {
   font-size: 1rem;
   color: #fff;
   display: block;
-  padding: 0px 10px;
+  padding: 0px 15px;
 }
 nav ul.left {
   float: left;
 }
 
-@media only screen and (min-width: 0) {
-  nav, a.button-collapse i {
-    height: 56px;
-    line-height: 56px;
-  }
-}
-@media only screen and (min-width: 480px) {
-  nav, a.button-collapse i {
+@media only screen and (min-width: 600px) {
+  nav, nav .nav-wrapper i, nav a.button-collapse i {
     height: 64px;
     line-height: 64px;
+  }
+
+  nav .nav-wrapper i {
+    font-size: 2rem;
   }
 }
 @font-face {
@@ -5215,19 +6169,18 @@ html {
     font-size: 14px;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
   html {
     font-size: 14.5px;
   }
 }
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1200px) {
   html {
     font-size: 15px;
   }
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #212121;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   text-rendering: optimizeLegibility;
@@ -5240,40 +6193,40 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 h1 {
   font-size: 4.1rem;
   line-height: 4.51rem;
-  margin: .25rem 0 .7rem 0;
+  margin: .25rem 0 .25rem 0;
   letter-spacing: -0.1rem;
 }
 
 h2 {
   font-size: 3.21rem;
   line-height: 3.531rem;
-  margin: .25rem 0 .7rem 0;
+  margin: .25rem 0 .25rem 0;
 }
 
 h3 {
   font-size: 2.42rem;
   line-height: 2.662rem;
-  margin: .25rem 0 .7rem 0;
+  margin: .25rem 0 .25rem 0;
 }
 
 h4 {
   font-size: 1.71rem;
   line-height: 1.881rem;
-  margin: .25rem 0 .7rem 0;
+  margin: .25rem 0 .25rem 0;
   letter-spacing: .05rem;
 }
 
 h5 {
   font-size: 1.42rem;
   line-height: 1.562rem;
-  margin: .25rem 0 .7rem 0;
+  margin: .25rem 0 .25rem 0;
   letter-spacing: .05rem;
 }
 
 h6 {
   font-size: 1rem;
   line-height: 1.1rem;
-  margin: .25rem 0 .7rem 0;
+  margin: .25rem 0 .25rem 0;
   letter-spacing: .03rem;
 }
 
@@ -5283,7 +6236,6 @@ em {
 
 strong {
   font-weight: bold;
-  color: #212121;
 }
 
 small {
@@ -5303,202 +6255,202 @@ small {
     line-height: 0.8rem;
   }
 }
-@media only screen and (min-width: 387.2px) {
+@media only screen and (min-width: 390px) {
   .flow-text {
     font-size: 1.224rem;
   }
 }
-@media only screen and (min-width: 27.2px) {
+@media only screen and (min-width: 30px) {
   .flow-text {
     line-height: 0.904rem;
   }
 }
-@media only screen and (min-width: 414.4px) {
+@media only screen and (min-width: 420px) {
   .flow-text {
     font-size: 1.248rem;
   }
 }
-@media only screen and (min-width: 54.4px) {
+@media only screen and (min-width: 60px) {
   .flow-text {
     line-height: 1.008rem;
   }
 }
-@media only screen and (min-width: 441.6px) {
+@media only screen and (min-width: 450px) {
   .flow-text {
     font-size: 1.272rem;
   }
 }
-@media only screen and (min-width: 81.6px) {
+@media only screen and (min-width: 90px) {
   .flow-text {
     line-height: 1.112rem;
   }
 }
-@media only screen and (min-width: 468.8px) {
+@media only screen and (min-width: 480px) {
   .flow-text {
     font-size: 1.296rem;
   }
 }
-@media only screen and (min-width: 108.8px) {
+@media only screen and (min-width: 120px) {
   .flow-text {
     line-height: 1.216rem;
   }
 }
-@media only screen and (min-width: 496px) {
+@media only screen and (min-width: 510px) {
   .flow-text {
     font-size: 1.32rem;
   }
 }
-@media only screen and (min-width: 136px) {
+@media only screen and (min-width: 150px) {
   .flow-text {
     line-height: 1.32rem;
   }
 }
-@media only screen and (min-width: 523.2px) {
+@media only screen and (min-width: 540px) {
   .flow-text {
     font-size: 1.344rem;
   }
 }
-@media only screen and (min-width: 163.2px) {
+@media only screen and (min-width: 180px) {
   .flow-text {
     line-height: 1.424rem;
   }
 }
-@media only screen and (min-width: 550.4px) {
+@media only screen and (min-width: 570px) {
   .flow-text {
     font-size: 1.368rem;
   }
 }
-@media only screen and (min-width: 190.4px) {
+@media only screen and (min-width: 210px) {
   .flow-text {
     line-height: 1.528rem;
   }
 }
-@media only screen and (min-width: 577.6px) {
+@media only screen and (min-width: 600px) {
   .flow-text {
     font-size: 1.392rem;
   }
 }
-@media only screen and (min-width: 217.6px) {
+@media only screen and (min-width: 240px) {
   .flow-text {
     line-height: 1.632rem;
   }
 }
-@media only screen and (min-width: 604.8px) {
+@media only screen and (min-width: 630px) {
   .flow-text {
     font-size: 1.416rem;
   }
 }
-@media only screen and (min-width: 244.8px) {
+@media only screen and (min-width: 270px) {
   .flow-text {
     line-height: 1.736rem;
   }
 }
-@media only screen and (min-width: 632px) {
+@media only screen and (min-width: 660px) {
   .flow-text {
     font-size: 1.44rem;
   }
 }
-@media only screen and (min-width: 272px) {
+@media only screen and (min-width: 300px) {
   .flow-text {
     line-height: 1.84rem;
   }
 }
-@media only screen and (min-width: 659.2px) {
+@media only screen and (min-width: 690px) {
   .flow-text {
     font-size: 1.464rem;
   }
 }
-@media only screen and (min-width: 299.2px) {
+@media only screen and (min-width: 330px) {
   .flow-text {
     line-height: 1.944rem;
   }
 }
-@media only screen and (min-width: 686.4px) {
+@media only screen and (min-width: 720px) {
   .flow-text {
     font-size: 1.488rem;
   }
 }
-@media only screen and (min-width: 326.4px) {
+@media only screen and (min-width: 360px) {
   .flow-text {
     line-height: 2.048rem;
   }
 }
-@media only screen and (min-width: 713.6px) {
+@media only screen and (min-width: 750px) {
   .flow-text {
     font-size: 1.512rem;
   }
 }
-@media only screen and (min-width: 353.6px) {
+@media only screen and (min-width: 390px) {
   .flow-text {
     line-height: 2.152rem;
   }
 }
-@media only screen and (min-width: 740.8px) {
+@media only screen and (min-width: 780px) {
   .flow-text {
     font-size: 1.536rem;
   }
 }
-@media only screen and (min-width: 380.8px) {
+@media only screen and (min-width: 420px) {
   .flow-text {
     line-height: 2.256rem;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 810px) {
   .flow-text {
     font-size: 1.56rem;
   }
 }
-@media only screen and (min-width: 408px) {
+@media only screen and (min-width: 450px) {
   .flow-text {
     line-height: 2.36rem;
   }
 }
-@media only screen and (min-width: 795.2px) {
+@media only screen and (min-width: 840px) {
   .flow-text {
     font-size: 1.584rem;
   }
 }
-@media only screen and (min-width: 435.2px) {
+@media only screen and (min-width: 480px) {
   .flow-text {
     line-height: 2.464rem;
   }
 }
-@media only screen and (min-width: 822.4px) {
+@media only screen and (min-width: 870px) {
   .flow-text {
     font-size: 1.608rem;
   }
 }
-@media only screen and (min-width: 462.4px) {
+@media only screen and (min-width: 510px) {
   .flow-text {
     line-height: 2.568rem;
   }
 }
-@media only screen and (min-width: 849.6px) {
+@media only screen and (min-width: 900px) {
   .flow-text {
     font-size: 1.632rem;
   }
 }
-@media only screen and (min-width: 489.6px) {
+@media only screen and (min-width: 540px) {
   .flow-text {
     line-height: 2.672rem;
   }
 }
-@media only screen and (min-width: 876.8px) {
+@media only screen and (min-width: 930px) {
   .flow-text {
     font-size: 1.656rem;
   }
 }
-@media only screen and (min-width: 516.8px) {
+@media only screen and (min-width: 570px) {
   .flow-text {
     line-height: 2.776rem;
   }
 }
-@media only screen and (min-width: 904px) {
+@media only screen and (min-width: 960px) {
   .flow-text {
     font-size: 1.68rem;
   }
 }
-@media only screen and (min-width: 544px) {
+@media only screen and (min-width: 600px) {
   .flow-text {
     line-height: 2.88rem;
   }
@@ -5569,20 +6521,20 @@ small {
   display: block;
   position: fixed;
 }
-@media only screen and (min-width: 0) and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
   #toast-container {
     min-width: 100%;
     bottom: 0%;
   }
 }
-@media only screen and (min-width: 480px) and (max-width: 768px) {
+@media only screen and (min-width: 600px) and (max-width: 992px) {
   #toast-container {
     min-width: 30%;
     left: 5%;
     bottom: 7%;
   }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
   #toast-container {
     min-width: 8%;
     top: 10%;
@@ -5591,26 +6543,45 @@ small {
 }
 
 .toast {
-  margin: 10px auto;
+  width: auto;
+  clear: both;
+  margin: 5px auto;
   position: relative;
-  width: 100%;
+  max-width: 100%;
   height: 40px;
+  line-height: 40px;
   background-color: #323232;
-  padding: 10px 15px;
+  padding: 0px 22px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   border-radius: 2px;
-  display: table;
+  display: block;
   top: 0px;
+}
+.toast.rounded {
+  border-radius: 24px;
+}
+@media only screen and (max-width: 600px) {
+  .toast {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 600px) and (max-width: 992px) {
+  .toast {
+    float: left;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .toast {
+    float: right;
+  }
 }
 .toast span {
   padding: 0px;
   font-size: 1.1rem;
   font-weight: 300;
-  display: table-cell;
   color: #FFF;
-  vertical-align: middle;
   text-align: center;
 }
 
@@ -5635,7 +6606,7 @@ ul.tabs li.tab {
   letter-spacing: .8px;
   width: 15%;
 }
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 992px) {
   ul.tabs li.tab {
     max-width: 25%;
   }
@@ -5651,397 +6622,59 @@ ul.tabs li.tab a {
   -ms-transition: color 0.28s ease;
   transition: color 0.28s ease;
 }
+ul.tabs li.tab a:hover {
+  color: #f8c1c3;
+}
 ul.tabs .indicator {
   position: absolute;
   bottom: 0;
   height: 2px;
+  background-color: #ee6e73;
 }
 
-@media only screen and (min-width: 0) {
-  ul.tabs li.tab {
-    padding: 0;
-  }
-}
-/*! Hint.css - v1.3.3 - 2014-07-06
-* http://kushagragour.in/lab/hint/
-* Copyright (c) 2014 Kushagra Gour; Licensed MIT */
-/*-------------------------------------*\
-	HINT.css - A CSS tooltip library
-\*-------------------------------------*/
-/**
- * HINT.css is a tooltip library made in pure CSS.
- *
- * Source: https://github.com/chinchang/hint.css
- * Demo: http://kushagragour.in/lab/hint/
- *
- * Release under The MIT License
- *
- */
-/**
- * source: hint-core.scss
- *
- * Defines the basic styling for the tooltip.
- * Each tooltip is made of 2 parts:
- * 	1) body (:after)
- * 	2) arrow (:before)
- *
- * Classes added:
- * 	1) hint
- */
-.hint, [data-hint] {
-  position: relative;
-  display: inline-block;
-  /**
-   * tooltip arrow
-   */
-  /**
-   * tooltip body
-   */
+ul.tabs li.tab {
+  padding: 0;
 }
 
-.hint:before, .hint:after, [data-hint]:before, [data-hint]:after {
-  position: absolute;
-  -webkit-transform: translate3d(0, 0, 0);
-  -moz-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-  visibility: hidden;
+.material-tooltip {
+  padding: 10px 8px;
+  font-size: 1rem;
+  z-index: 1000;
+  background-color: transparent;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  background-clip: padding-box;
+  color: #fff;
+  height: 1rem;
+  line-height: 1rem;
+  max-width: 200px;
   opacity: 0;
-  z-index: 1000000;
-  pointer-events: none;
-  -webkit-transition: 0.3s ease;
-  -moz-transition: 0.3s ease;
-  transition: 0.3s ease;
-  -webkit-transition-delay: 0ms;
-  -moz-transition-delay: 0ms;
-  transition-delay: 0ms;
-}
-
-.hint:hover:before, .hint:hover:after, .hint:focus:before, .hint:focus:after, [data-hint]:hover:before, [data-hint]:hover:after, [data-hint]:focus:before, [data-hint]:focus:after {
-  visibility: visible;
-  opacity: 1;
-}
-
-.hint:hover:before, .hint:hover:after, [data-hint]:hover:before, [data-hint]:hover:after {
-  -webkit-transition-delay: 100ms;
-  -moz-transition-delay: 100ms;
-  transition-delay: 100ms;
-}
-
-.hint:before, [data-hint]:before {
+  display: none;
   position: absolute;
-  background: transparent;
-  border: 6px solid transparent;
-  z-index: 1000001;
+  text-align: center;
+  overflow: hidden;
+  left: 0;
+  top: 0;
 }
 
-.hint:after, [data-hint]:after {
-  content: attr(data-hint);
-  background: #3b3a3a;
-  left: 0%;
-  color: white;
-  padding: 10px 11px;
-  font-size: 12px;
-  line-height: 12px;
-  white-space: nowrap;
-}
-
-/**
- * source: hint-position.scss
- *
- * Defines the positoning logic for the tooltips.
- *
- * Classes added:
- * 	1) hint--top
- * 	2) hint--bottom
- * 	3) hint--left
- * 	4) hint--right
- */
-/**
- * set default color for tooltip arrows
- */
-.hint--top:before {
-  border-top-color: #383838;
-}
-
-.hint--bottom:before {
-  border-bottom-color: #383838;
-}
-
-.hint--left:before {
-  border-left-color: #383838;
-}
-
-.hint--right:before {
-  border-right-color: #383838;
-}
-
-/**
- * top tooltip
- */
-.hint--top:before {
-  margin-bottom: -12px;
-}
-
-.hint--top:after {
-  margin-left: -18px;
-}
-
-.hint--top:before, .hint--top:after {
-  bottom: 100%;
-}
-
-.hint--top:hover:after, .hint--top:hover:before, .hint--top:focus:after, .hint--top:focus:before {
-  -webkit-transform: translateY(-8px);
-  -moz-transform: translateY(-8px);
-  transform: translateY(-8px);
-}
-
-/**
- * bottom tooltip
- */
-.hint--bottom:before {
-  margin-top: -12px;
-}
-
-.hint--bottom:after {
-  margin-left: -18px;
-}
-
-.hint--bottom:before, .hint--bottom:after {
-  top: 100%;
-}
-
-.hint--bottom:hover:after, .hint--bottom:hover:before, .hint--bottom:focus:after, .hint--bottom:focus:before {
-  -webkit-transform: translateY(8px);
-  -moz-transform: translateY(8px);
-  transform: translateY(8px);
-}
-
-/**
- * right tooltip
- */
-.hint--right:before {
-  margin-left: -12px;
-  margin-bottom: -6px;
-}
-
-.hint--right:after {
-  margin-bottom: -14px;
-}
-
-.hint--right:before, .hint--right:after {
-  left: 100%;
-  bottom: 50%;
-}
-
-.hint--right:hover:after, .hint--right:hover:before, .hint--right:focus:after, .hint--right:focus:before {
-  -webkit-transform: translateX(8px);
-  -moz-transform: translateX(8px);
-  transform: translateX(8px);
-}
-
-/**
- * left tooltip
- */
-.hint--left:before {
-  margin-right: -12px;
-  margin-bottom: -6px;
-}
-
-.hint--left:after {
-  margin-bottom: -14px;
-}
-
-.hint--left:before, .hint--left:after {
-  right: 100%;
-  bottom: 50%;
-}
-
-.hint--left:hover:after, .hint--left:hover:before, .hint--left:focus:after, .hint--left:focus:before {
-  -webkit-transform: translateX(-8px);
-  -moz-transform: translateX(-8px);
-  transform: translateX(-8px);
-}
-
-/**
- * source: hint-color-types.scss
- *
- * Contains tooltips of various types based on color differences.
- *
- * Classes added:
- * 	1) hint--error
- * 	2) hint--warning
- * 	3) hint--info
- * 	4) hint--success
- *
- */
-/**
- * Error
- */
-.hint--error:after {
-  background-color: #b34e4d;
-  text-shadow: 0 -1px 0px #592726;
-}
-
-.hint--error.hint--top:before {
-  border-top-color: #b34e4d;
-}
-
-.hint--error.hint--bottom:before {
-  border-bottom-color: #b34e4d;
-}
-
-.hint--error.hint--left:before {
-  border-left-color: #b34e4d;
-}
-
-.hint--error.hint--right:before {
-  border-right-color: #b34e4d;
-}
-
-/**
- * Warning
- */
-.hint--warning:after {
-  background-color: #c09854;
-  text-shadow: 0 -1px 0px #6c5328;
-}
-
-.hint--warning.hint--top:before {
-  border-top-color: #c09854;
-}
-
-.hint--warning.hint--bottom:before {
-  border-bottom-color: #c09854;
-}
-
-.hint--warning.hint--left:before {
-  border-left-color: #c09854;
-}
-
-.hint--warning.hint--right:before {
-  border-right-color: #c09854;
-}
-
-/**
- * Info
- */
-.hint--info:after {
-  background-color: #3986ac;
-  text-shadow: 0 -1px 0px #193b4d;
-}
-
-.hint--info.hint--top:before {
-  border-top-color: #3986ac;
-}
-
-.hint--info.hint--bottom:before {
-  border-bottom-color: #3986ac;
-}
-
-.hint--info.hint--left:before {
-  border-left-color: #3986ac;
-}
-
-.hint--info.hint--right:before {
-  border-right-color: #3986ac;
-}
-
-/**
- * Success
- */
-.hint--success:after {
-  background-color: #458746;
-  text-shadow: 0 -1px 0px #1a321a;
-}
-
-.hint--success.hint--top:before {
-  border-top-color: #458746;
-}
-
-.hint--success.hint--bottom:before {
-  border-bottom-color: #458746;
-}
-
-.hint--success.hint--left:before {
-  border-left-color: #458746;
-}
-
-.hint--success.hint--right:before {
-  border-right-color: #458746;
-}
-
-/**
- * source: hint-always.scss
- *
- * Defines a persisted tooltip which shows always.
- *
- * Classes added:
- * 	1) hint--always
- *
- */
-.hint--always:after, .hint--always:before {
-  opacity: 1;
-  visibility: visible;
-}
-
-.hint--always.hint--top:after, .hint--always.hint--top:before {
-  -webkit-transform: translateY(-8px);
-  -moz-transform: translateY(-8px);
-  transform: translateY(-8px);
-}
-
-.hint--always.hint--bottom:after, .hint--always.hint--bottom:before {
-  -webkit-transform: translateY(8px);
-  -moz-transform: translateY(8px);
-  transform: translateY(8px);
-}
-
-.hint--always.hint--left:after, .hint--always.hint--left:before {
-  -webkit-transform: translateX(-8px);
-  -moz-transform: translateX(-8px);
-  transform: translateX(-8px);
-}
-
-.hint--always.hint--right:after, .hint--always.hint--right:before {
-  -webkit-transform: translateX(8px);
-  -moz-transform: translateX(8px);
-  transform: translateX(8px);
-}
-
-/**
- * source: hint-rounded.scss
- *
- * Defines rounded corner tooltips.
- *
- * Classes added:
- * 	1) hint--rounded
- *
- */
-.hint--rounded:after {
-  border-radius: 4px;
-}
-
-/**
- * source: hint-effects.scss
- *
- * Defines various transition effects for the tooltips.
- *
- * Classes added:
- * 	1) hint--no-animate
- * 	2) hint--bounce
- *
- */
-.hint--no-animate:before, .hint--no-animate:after {
-  -webkit-transition-duration: 0ms;
-  -moz-transition-duration: 0ms;
-  transition-duration: 0ms;
-}
-
-.hint--bounce:before, .hint--bounce:after {
-  -webkit-transition: opacity 0.3s ease, visibility 0.3s ease, -webkit-transform 0.3s cubic-bezier(0.71, 1.7, 0.77, 1.24);
-  -moz-transition: opacity 0.3s ease, visibility 0.3s ease, -moz-transform 0.3s cubic-bezier(0.71, 1.7, 0.77, 1.24);
-  transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s cubic-bezier(0.71, 1.7, 0.77, 1.24);
+.backdrop {
+  position: absolute;
+  opacity: 0;
+  display: none;
+  height: 7px;
+  width: 14px;
+  -webkit-border-radius: 0 0 14px 14px;
+  -moz-border-radius: 0 0 14px 14px;
+  border-radius: 0 0 14px 14px;
+  background-clip: padding-box;
+  background-color: #323232;
+  z-index: -1;
+  -webkit-transform-origin: 50% 10%;
+  -moz-transform-origin: 50% 10%;
+  -ms-transform-origin: 50% 10%;
+  -o-transform-origin: 50% 10%;
+  transform-origin: 50% 10%;
 }
 
 .btn, .btn-large, .btn-flat {
@@ -6055,14 +6688,15 @@ ul.tabs .indicator {
   background-clip: padding-box;
   line-height: 36px;
   text-transform: uppercase;
+  border: none;
 }
 
-.btn.disabled, .disabled.btn-large, .btn-floating.disabled, .btn-large.disabled {
+.btn.disabled, .disabled.btn-large, .btn-floating.disabled, .btn-large.disabled, .btn:disabled, .btn-large:disabled, .btn-large:disabled, .btn-floating:disabled {
   background-color: #DFDFDF;
   box-shadow: none;
   color: #9F9F9F;
 }
-.btn.disabled:hover, .disabled.btn-large:hover, .btn-floating.disabled:hover, .btn-large.disabled:hover {
+.btn.disabled:hover, .disabled.btn-large:hover, .btn-floating.disabled:hover, .btn-large.disabled:hover, .btn:disabled:hover, .btn-large:disabled:hover, .btn-large:disabled:hover, .btn-floating:disabled:hover {
   background-color: #DFDFDF;
   color: #9F9F9F;
 }
@@ -6082,7 +6716,7 @@ ul.tabs .indicator {
 .btn, .btn-large {
   text-decoration: none;
   color: #FFFFFF;
-  background-color: #5677fc;
+  background-color: #2196F3;
   text-align: center;
   letter-spacing: .8px;
   -webkit-transition: 0.2s ease-out;
@@ -6092,7 +6726,7 @@ ul.tabs .indicator {
   transition: 0.2s ease-out;
 }
 .btn:hover, .btn-large:hover {
-  background-color: #6f8bfc;
+  background-color: #39a1f4;
 }
 
 .btn-floating {
@@ -6103,7 +6737,7 @@ ul.tabs .indicator {
   height: 40px;
   line-height: 40px;
   padding: 0;
-  background-color: #5677fc;
+  background-color: #2196F3;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -6144,11 +6778,12 @@ ul.tabs .indicator {
   min-width: 100px;
 }
 .dropdown-content li {
+  cursor: pointer;
   font-size: 1.2rem;
   color: #212121;
   padding: 1rem 1rem;
 }
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1200px) {
   .dropdown-content li:hover {
     background-color: rgba(0, 0, 0, 0.07);
   }
@@ -6271,7 +6906,23 @@ ul.tabs .indicator {
   display: none;
   background-color: #eee;
   padding: 24px;
-  max-width: 60%;
+  max-height: 70%;
+  max-width: 55%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  overflow-y: auto;
+  border-radius: 2px;
+  -webkit-transform: translate(0);
+  -moz-transform: translate(0);
+  -ms-transform: translate(0);
+  -o-transform: translate(0);
+  transform: translate(0);
+}
+@media only screen and (max-width: 992px) {
+  .modal {
+    max-width: 80%;
+  }
 }
 .modal h1, .modal h2, .modal h3, .modal h4 {
   margin-top: 0;
@@ -6279,13 +6930,18 @@ ul.tabs .indicator {
 
 #lean_overlay {
   position: fixed;
-  z-index: 100;
+  z-index: 999;
   top: 0px;
   left: 0px;
-  height: 100%;
-  width: 100%;
+  height: 120%;
+  width: 120%;
   background: #000;
   display: none;
+}
+
+.modal-action {
+  margin-top: 10px;
+  margin-bottom: 0px;
 }
 
 ul.collapsible {
@@ -6344,18 +7000,55 @@ ul.collapsible {
   z-index: 999;
 }
 
-/***************
-    Inputs 
-***************/
-input {
+/***************************
+   Text Inputs + Textarea
+****************************/
+.input-field {
+  position: relative;
+}
+.input-field label {
+  color: #bdbdbd;
+  position: absolute;
+  z-index: -1;
+  top: .8rem;
+  left: .5rem;
+  -webkit-transition: transform 0.2s ease-out;
+  -moz-transition: transform 0.2s ease-out;
+  -o-transition: transform 0.2s ease-out;
+  -ms-transition: transform 0.2s ease-out;
+  transition: transform 0.2s ease-out;
+}
+.input-field label.active {
+  transform: translateY(-130%);
+}
+.input-field input[type=text]:focus + label,
+.input-field input[type=password]:focus + label,
+.input-field input[type=email]:focus + label,
+.input-field textarea:focus + label {
+  color: #a4a4a4;
+}
+.input-field input[type=text]:valid,
+.input-field input[type=password]:valid,
+.input-field input[type=email]:valid
+textarea:valid {
+  border-bottom: 1px solid #4CAF50;
+  -webkit-box-shadow: 0 1px 0 0 #4CAF50;
+  -moz-box-shadow: 0 1px 0 0 #4CAF50;
+  box-shadow: 0 1px 0 0 #4CAF50;
+}
+
+input[type=text],
+input[type=password],
+input[type=email],
+textarea {
   background-color: transparent;
   border: none;
   border-bottom: 1px solid #bdbdbd;
   outline: none;
-  height: 3em;
+  height: 3rem;
   width: 100%;
-  font-size: 1em;
-  margin: 15px 0px;
+  font-size: 1rem;
+  margin: 0 0 15px 0;
   padding: 0;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -6370,11 +7063,22 @@ input {
   transition: 0.3s;
 }
 
-input:focus {
-  border-bottom: 1px solid #00bcd4;
-  -webkit-box-shadow: 0 1px 0 0 #00bcd4;
-  -moz-box-shadow: 0 1px 0 0 #00bcd4;
-  box-shadow: 0 1px 0 0 #00bcd4;
+input[type=text]:focus,
+input[type=password]:focus,
+input[type=email]:focus,
+textarea:focus {
+  border-bottom: 1px solid #03a9f4;
+  -webkit-box-shadow: 0 1px 0 0 #03a9f4;
+  -moz-box-shadow: 0 1px 0 0 #03a9f4;
+  box-shadow: 0 1px 0 0 #03a9f4;
+}
+
+textarea {
+  overflow-y: hidden;
+  /* prevents scroll bar flash */
+  padding-top: 1.2rem;
+  /* prevents text jump on Enter keypress */
+  resize: none;
 }
 
 /***************
@@ -6579,47 +7283,240 @@ form p:last-child {
 }
 
 /***************
-    Nav List 
+  Select Field 
+***************/
+.select-wrapper span.select-dropdown {
+  cursor: pointer;
+}
+
+select {
+  display: none;
+}
+
+select.disabled {
+  display: block;
+}
+
+/***************
+      Range 
+***************/
+.range-field {
+  position: relative;
+}
+
+input[type=range], input[type=range] + .thumb {
+  cursor: pointer;
+}
+
+input[type=range] {
+  position: relative;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  width: 100%;
+  margin: 15px 0px;
+  padding: 0;
+}
+
+input[type=range] + .thumb {
+  position: absolute;
+  border: none;
+  height: 0;
+  width: 0;
+  border-radius: 50%;
+  background-color: #0f9d58;
+  transform-origin: 50% 50%;
+  top: 10px;
+  margin-left: -6px;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+input[type=range] + .thumb .value {
+  display: block;
+  width: 30px;
+  text-align: center;
+  color: #0f9d58;
+  font-size: 0px;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+input[type=range] + .thumb.active {
+  border-radius: 50% 50% 50% 0;
+}
+input[type=range] + .thumb.active .value {
+  color: #fff;
+  margin-left: -1px;
+  margin-top: 8px;
+  font-size: 10px;
+}
+
+input[type=range]:focus {
+  outline: none;
+}
+
+input[type=range] {
+  -webkit-appearance: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  height: 3px;
+  background: #c2c0c2;
+  border: none;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  border: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+  background-color: #0f9d58;
+  transform-origin: 50% 50%;
+  margin: -5px 0 0 0;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.range-field.active input[type=range]::-webkit-slider-thumb {
+  height: 0;
+  width: 0;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #ccc;
+}
+
+input[type=range] {
+  /* fix for FF unable to apply focus style bug  */
+  border: 1px solid white;
+  /*required for proper track sizing in FF*/
+}
+
+input[type=range]::-moz-range-track {
+  height: 3px;
+  background: #ddd;
+  border: none;
+}
+
+input[type=range]::-moz-range-thumb {
+  border: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+  background: #0f9d58;
+  margin-top: -5px;
+}
+
+/*hide the outline behind the border*/
+input[type=range]:-moz-focusring {
+  outline: 1px solid white;
+  outline-offset: -1px;
+}
+
+input[type=range]:focus::-moz-range-track {
+  background: #ccc;
+}
+
+input[type=range]::-ms-track {
+  height: 3px;
+  /*remove bg colour from the track, we'll use ms-fill-lower and ms-fill-upper instead */
+  background: transparent;
+  /*leave room for the larger thumb to overflow with a transparent border */
+  border-color: transparent;
+  border-width: 6px 0;
+  /*remove default tick marks*/
+  color: transparent;
+}
+
+input[type=range]::-ms-fill-lower {
+  background: #777;
+}
+
+input[type=range]::-ms-fill-upper {
+  background: #ddd;
+}
+
+input[type=range]::-ms-thumb {
+  border: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+  background: #0f9d58;
+}
+
+input[type=range]:focus::-ms-fill-lower {
+  background: #888;
+}
+
+input[type=range]:focus::-ms-fill-upper {
+  background: #ccc;
+}
+
+/***************
+    Nav List
 ***************/
 ul.table-of-contents.fixed {
   position: fixed;
-  top: 0px;
+}
+ul.table-of-contents li {
+  padding: 2px 0;
 }
 ul.table-of-contents a {
+  display: inline-block;
+  font-weight: 300;
   color: #757575;
+  padding-left: 20px;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  letter-spacing: .4;
+  display: inline-block;
 }
 ul.table-of-contents a:hover {
   color: #a8a8a8;
-  padding-right: 10px;
-  border-right: 1px solid #ea4a4f;
+  padding-left: 19px;
+  border-left: 1px solid #ea4a4f;
 }
 ul.table-of-contents a.active {
-  padding-right: 10px;
-  border-right: 4px solid #ea4a4f;
+  font-weight: 600;
+  padding-left: 18px;
+  border-left: 2px solid #ea4a4f;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 992px) {
   ul.side-nav {
     position: fixed;
     width: 240px;
     left: -240px;
     top: 0;
-    height: 100%;
+    height: 120%;
     background-color: #FFF;
     z-index: 1000;
-    -webkit-transition: left 0.15s ease-out;
-    -moz-transition: left 0.15s ease-out;
-    -o-transition: left 0.15s ease-out;
-    -ms-transition: left 0.15s ease-out;
-    transition: left 0.15s ease-out;
+    -webkit-transition: transform 0.15s ease-out;
+    -moz-transition: transform 0.15s ease-out;
+    -o-transition: transform 0.15s ease-out;
+    -ms-transition: transform 0.15s ease-out;
+    transition: transform 0.15s ease-out;
   }
   ul.side-nav.active {
-    left: 0;
-    -webkit-transition: left 0.3s ease;
-    -moz-transition: left 0.3s ease;
-    -o-transition: left 0.3s ease;
-    -ms-transition: left 0.3s ease;
-    transition: left 0.3s ease;
+    -webkit-transform: translateX(240px);
+    -moz-transform: translateX(240px);
+    -ms-transform: translateX(240px);
+    -o-transform: translateX(240px);
+    transform: translateX(240px);
+    -webkit-transition: transform 0.3s ease;
+    -moz-transition: transform 0.3s ease;
+    -o-transition: transform 0.3s ease;
+    -ms-transition: transform 0.3s ease;
+    transition: transform 0.3s ease;
   }
   ul.side-nav li {
     float: none;
@@ -6638,6 +7535,9 @@ ul.table-of-contents a.active {
   }
   #front-page-nav ul.side-nav li:hover {
     background-color: #ddd;
+  }
+  #front-page-nav ul.side-nav li .active {
+    background-color: transparent;
   }
   #front-page-nav ul.side-nav a {
     color: #444;

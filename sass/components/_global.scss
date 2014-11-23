@@ -11,15 +11,35 @@ $large-and-up: "only screen and (min-width : #{$medium-screen})";
 $small-and-down: "only screen and (max-width : #{$small-screen})";
 $medium-and-down: "only screen and (max-width : #{$medium-screen})";
 
+$medium-only: "only screen and (min-width : #{$small-screen}) and (max-width : #{$medium-screen})";
+
 //Default styles
+
+//html {
+//  box-sizing: border-box;
+//}
+//*, *:before, *:after {
+//  box-sizing: inherit;
+//}
 
 ul {
 	list-style-type: none;
 }
 
 a {
-	@extend .light-blue-text.darken-1;
+	color: color("blue", "darken-1");
 	text-decoration: none;
+}
+
+
+// No Text Select
+.no-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 
@@ -142,6 +162,13 @@ $num-cols: 12;
   }
 }
 
+// Center text on mobile 
+.center-on-small-only {
+  @media #{$small-and-down} {
+    text-align: center;
+  } 
+}
+
 
 // Footer
 #footer {
@@ -153,3 +180,105 @@ $num-cols: 12;
   }
 }
 
+// Tables
+table, th, td {
+   border: none;
+}
+
+table {
+  width:100%;
+  display: table;
+  
+  @media #{$small-and-down} {
+    thead tr th, tbody tr td {
+      text-align: center;
+      
+    } 
+  }
+  
+  &.bordered tr {
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  &.striped {
+    tbody tr:nth-child(odd) {
+      background-color: #f2f2f2;
+    }
+  }
+  
+  &.hoverable {
+      
+    tbody tr {
+      @include transition(background-color .25s ease);
+//      background-color: transparent;
+      &:hover {
+        background-color: #f2f2f2;
+      }
+    }
+  }
+  
+  &.centered {
+    thead tr th, tbody tr td {
+      text-align: center;
+      
+    }
+  }
+
+}
+
+thead {
+  border-bottom: 1px solid #878787;
+}
+
+td, th{
+  padding: 15px 5px;
+  display: table-cell;
+  text-align: left;
+  vertical-align: middle;
+  border-radius: 2px;
+}
+
+// Collections
+.collection {
+  background-color: #FFF;
+  margin: 0 0 1rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 2px;
+  .collection-item {
+    padding: 10px 20px;
+    margin: 0px;
+    border-bottom: 1px solid #e0e0e0;
+      &:last-child {
+        border-bottom: none;
+      } 
+  }
+  
+  a.collection-item{
+    display: block;
+    @include transition(.25s);
+    &:not(.active) {
+      &:hover {
+        background-color: #f2f2f2;
+      }
+    }
+  }    
+  
+  &.with-header {
+    .collection-header {
+      border-bottom: 1px solid #e0e0e0;
+      padding: 10px 20px;
+    }
+    .collection-item {
+     padding-left: 30px;
+    }
+  }
+  
+  .secondary-content {
+    float: right;
+  }
+  
+  .active {
+    @extend .blue.lighten-1;
+    @extend .blue-text.lighten-4;
+  }
+}
