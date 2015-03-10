@@ -49,7 +49,7 @@
   'container'       => 'ul',
   'container_class' => 'right side-nav',
   'container_id'    => 'nav-mobile',
-  'menu_class'      => 'menu right',
+  'menu_class'      => 'menu right hide-on-med-and-down',
   'menu_id'         => '',
   'echo'            => true,
   'depth'           => 0,
