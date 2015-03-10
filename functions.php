@@ -32,9 +32,46 @@ add_action( 'wp_enqueue_scripts', 'materialpress_scripts' );
 */
 
 function materialpress_nav_menu() {
-  register_nav_menu( 'primary', 'Primary Menu' );
+	register_nav_menu( 'primary', 'Primary Menu' );
+	register_nav_menu( 'footer', 'Footer Menu' );
 }  
 add_action( 'after_setup_theme', 'materialpress_nav_menu' );
+
+/**
+ * Register sidebars and widgetized areas.
+ *
+ */
+function arphabet_widgets_init() {
+
+	register_sidebar( array(
+		'name'          => 'Footer 1',
+		'id'            => 'footer-widgetize-1',
+		'before_widget' => '<div class="footer-widget">',
+		'after_widget'  => '</div>',
+		'before_title'  => '<h5 class="white-text truncate">',
+		'after_title'   => '</h5>',
+	) );
+
+	register_sidebar( array(
+		'name'          => 'Footer 2',
+		'id'            => 'footer-widgetize-2',
+		'before_widget' => '<div class="footer-widget">',
+		'after_widget'  => '</div>',
+		'before_title'  => '<h5 class="white-text truncate">',
+		'after_title'   => '</h5>',
+	) );
+
+	register_sidebar( array(
+		'name'          => 'Footer 3',
+		'id'            => 'footer-widgetize-3',
+		'before_widget' => '<div class="footer-widget">',
+		'after_widget'  => '</div>',
+		'before_title'  => '<h5 class="white-text truncate">',
+		'after_title'   => '</h5>',
+	) );
+
+}
+add_action( 'widgets_init', 'arphabet_widgets_init' );
 
 /**
  * Theme Support

@@ -43,15 +43,13 @@
   <nav id="front-page-nav">
     <div class="container">
       <div class="nav-wrapper">
-        <a href="<?php echo site_url(); ?>" class="brand-logo" id="logo-container">
-          <h2 style="color:#fff;font-size:24px;" class="site-title"><?php $blog_title = get_bloginfo('name'); echo $blog_title; ?></h2>
-        </a>
+        <a href="<?php echo site_url(); ?>" class="brand-logo waves-effect waves-light" id="logo-container"><?php $blog_title = get_bloginfo('name'); echo $blog_title; ?></a>
         <?php $menu_args = array(
   'theme_location'  => 'primary',
   'container'       => 'ul',
   'container_class' => 'right side-nav',
   'container_id'    => 'nav-mobile',
-  'menu_class'      => 'menu',
+  'menu_class'      => 'menu right',
   'menu_id'         => '',
   'echo'            => true,
   'depth'           => 0,
