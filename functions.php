@@ -37,6 +37,14 @@ function materialpress_nav_menu() {
 }  
 add_action( 'after_setup_theme', 'materialpress_nav_menu' );
 
+/* Add Waves Effect to Menu Items */
+add_filter('nav_menu_css_class' , 'special_nav_class' , 10 , 2);
+function special_nav_class($classes, $item){
+	$classes[] = "waves-effect waves-light";
+	return $classes;
+}
+
+
 /**
  * Register sidebars and widgetized areas.
  *
