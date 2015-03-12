@@ -7,8 +7,8 @@
 
 		<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 			<div class="card">
-				<a href="<?php the_permalink(); ?>"><div class="card-title black-text" style="margin-left: 30px;"><?php the_title(); ?></div></a>				
 				<div class="card-content">
+					<a href="<?php the_permalink(); ?>"><span class="card-title black-text"><?php the_title(); ?></span></a>				
 					<?php the_content(); ?>
 				</div>
 				<div class="card-action">
