@@ -1,0 +1,37 @@
+/*!
+ * MaterialPress v0.1 (http://materialpress.me)
+ * Copyright 2014-2015 Material Press
+ * GNU GENERAL PUBLIC LICENSE (WordPress Theme Directory > materialpress/LICENSE)
+ */
+
+
+/* Table of Contents */
+/* Licence | Line 1-5
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * Footer | Line 23
+ */
+
+
+/* Footer */
+/* All Footer Widget Links Color White */
+footer > div.container > div > div > div > ul > li > a, footer > div.container > div > div > div > ul > li > a:hover {
+  color: #fff;
+}
+
+/* Force Footer to Bottom (May have I.E. compatibility issues) */
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.main {
+  flex: 1 0 auto;
+}
