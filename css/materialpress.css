@@ -16,8 +16,14 @@
  *
  *
  *
- * Footer | Line 23
+ * Footer | Line 29
  */
+
+/* Default Widgets */
+/*Search*/
+#searchform > div > label, #s {
+	color: #fff;
+}
 
 
 /* Footer */

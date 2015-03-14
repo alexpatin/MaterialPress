@@ -23,6 +23,7 @@
 		} ?></title>
 
 	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri() ; ?>/css/materialize.css" />
+	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri() ; ?>/css/materialpress.css" />
 
 	<!-- Favicons -->
 	<link rel="apple-touch-icon-precomposed" href="images/favicon/apple-touch-icon-152x152.png">
